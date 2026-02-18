@@ -1,4 +1,6 @@
 name: Sync
+permissions:
+  contents: write
 on:
   workflow_dispatch:
   schedule:
@@ -37,10 +39,10 @@ jobs:
         python gen_csv.py
         git status
         git diff
-    - name: Commit # 提交更新, fork后请自行修改user信息
+    - name: Commit
       run: |
-        git config --global user.email yule-best@outlook.com
-        git config --global user.name Yule
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
         git add .
         git diff-index --quiet HEAD || git commit -m "Sync with MobileModels $LATEST_COMMIT" -a
     - name: Push changes
