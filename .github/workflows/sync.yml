@@ -4,7 +4,7 @@ permissions:
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '24 * * * *'
 jobs:
    Task:
     runs-on: ubuntu-latest
