@@ -6313,6 +6313,7 @@ CPH2847,mob,oppo,OPPO,,,OPPO A6t,
 CPH2853,mob,oppo,OPPO,,,OPPO A6t,5G
 CPH2849,mob,oppo,OPPO,,,OPPO A6t Pro,
 CPH2851,mob,oppo,OPPO,,,OPPO A6t Pro,5G
+CPH2895,mob,oppo,OPPO,,,OPPO A6c,
 CPH1901,mob,oppo,OPPO,,,OPPO A7,
 CPH1905,mob,oppo,OPPO,,,OPPO A7,
 CPH1903,mob,oppo,OPPO,,,OPPO AX7,
@@ -6753,11 +6754,14 @@ RMX5256,mob,realme,realme,,,C83,5G
 RMX5566,mob,realme,realme,,,C85,
 RMX5253,mob,realme,realme,,,C85,5G
 RMX5555,mob,realme,realme,,,C85 Pro,
+RMX5258,mob,realme,realme,,,C100,5G
+RMX5377,mob,realme,realme,,,C100i,
 RMX3834,mob,realme,realme,,,Note 50,
 RMX3933,mob,realme,realme,,,Note 60,
 RMX3938,mob,realme,realme,,,Note 60x,
 RMX5313,mob,realme,realme,,,Note 70,
 RMX5313,mob,realme,realme,,,Note 70T,
+RMX5388,mob,realme,realme,,,Note 80,
 RMX1831,mob,realme,realme,,,U1,
 RMX1833,mob,realme,realme,,,U1,
 RMX3870,mob,realme,realme,,,P1,5G
