@@ -6607,37 +6607,37 @@ RMX3081,mob,realme,realme,,,8 Pro,
 RMX3241,mob,realme,realme,,,8 5G,
 RMX3151,mob,realme,realme,,spaced,8i,
 RMX3381,mob,realme,realme,,,8s 5G,
-RMX3521,mob,realme,realme,,,9,
-RMX3491,mob,realme,realme,,,9i,India / Global
-RMX3492,mob,realme,realme,,,9i,
-RMX3493,mob,realme,realme,,,9i,EU
-RMX3612,mob,realme,realme,,,9i,5G
+RMX3521,mob,realme,realme,,messi,9,
+RMX3491,mob,realme,realme,,kasa,9i,India / Global
+RMX3492,mob,realme,realme,,kasa,9i,
+RMX3493,mob,realme,realme,,kasa,9i,EU
 RMX3388,mob,realme,realme,,,9 5G,India
-RMX3474,mob,realme,realme,,,9 5G,EU
-RMX3471,mob,realme,realme,,,9 Pro 5G,India
-RMX3472,mob,realme,realme,,,9 Pro 5G,Global
+RMX3474,mob,realme,realme,,oscar,9 5G,EU
+RMX3612,mob,realme,realme,,blade,9i 5G,
+RMX3471,mob,realme,realme,,oscar,9 Pro 5G,India
+RMX3472,mob,realme,realme,,oscar,9 Pro 5G,Global
 RMX3392,mob,realme,realme,,,9 Pro+ 5G,India
 RMX3393,mob,realme,realme,,,9 Pro+ 5G,Global
 RMX3461,mob,realme,realme,,ice,9 5G Speed Edition,India
-RMX3630,mob,realme,realme,,,10,
+RMX3630,mob,realme,realme,,doki,10,
 RMX3660,mob,realme,realme,,luigi,10 Pro 5G,India
 RMX3660,mob,realme,realme,,luigi,10 Pro 5G,Coca-Cola® Edition
 RMX3661,mob,realme,realme,,luigi,10 Pro 5G,Global
 RMX3661,mob,realme,realme,,luigi,10 Pro 5G,Coca-Cola® Edition
 RMX3686,mob,realme,realme,,roma,10 Pro+ 5G,
-RMX3612,mob,realme,realme,,,10T 5G,
-RMX3636,mob,realme,realme,,,11,
-RMX3780,mob,realme,realme,,,11 5G,
-RMX3785,mob,realme,realme,,,11x 5G,
+RMX3612,mob,realme,realme,,blade,10T 5G,
+RMX3636,mob,realme,realme,,doki-a,11,
+RMX3780,mob,realme,realme,,chongqing,11 5G,
+RMX3785,mob,realme,realme,,chongqing,11x 5G,
 RMX3771,mob,realme,realme,,chengdu-b,11 Pro 5G,
 RMX3741,mob,realme,realme,,chengdu,11 Pro+ 5G,
-RMX3871,mob,realme,realme,,,12,4G
+RMX3871,mob,realme,realme,,tacoo-f,12,4G
 RMX3999,mob,realme,realme,,,12 5G,
 RMX3998,mob,realme,realme,,,12x 5G,
-RMX3867,mob,realme,realme,,,12+ 5G,
+RMX3867,mob,realme,realme,,tacoo,12+ 5G,
 RMX3842,mob,realme,realme,,coffee-a,12 Pro 5G,
 RMX3840,mob,realme,realme,,coffee,12 Pro+ 5G,
-RMX3871,mob,realme,realme,,,13,4G
+RMX3871,mob,realme,realme,,tacoo-f,13,4G
 RMX3951,mob,realme,realme,,barley-x,13 5G,
 RMX5000,mob,realme,realme,,casio,13+ 5G,
 RMX3990,mob,realme,realme,,amber-n,13 Pro 5G,
@@ -6657,7 +6657,7 @@ RMX5101,mob,realme,realme,,neutron,15 Pro 5G,
 RMX5101,mob,realme,realme,,neutron,15 Pro 5G,Game of Thrones Limited Edition
 RMX5111,mob,realme,realme,,chopard,15T 5G,
 RMX5000,mob,realme,realme,,casio,15 Lite 5G,
-RMX5250,mob,realme,realme,,,15x 5G,
+RMX5250,mob,realme,realme,,mumbai,15x 5G,
 RMX5171,mob,realme,realme,,,16 5G,
 RMX5120,mob,realme,realme,,iwc,16 Pro 5G,
 RMX5131,mob,realme,realme,,zenith,16 Pro+ 5G,
@@ -6837,6 +6837,7 @@ RMX3945,mob,realme,realme,,,NARZO 80 Lite,5G
 RMX5111,mob,realme,realme,,chopard,NARZO 90,5G
 RMX5264,mob,realme,realme,,,NARZO 90x,5G
 RMX5107,mob,realme,realme,,,NARZO Power,5G
+RMX5261,mob,realme,realme,,,NARZO 100 Lite,5G
 RMP2102,pad,realme,realme,,,Pad,LTE
 RMP2103,pad,realme,realme,,,Pad,Wi-Fi
 RMP2105,pad,realme,realme,,,Pad mini,LTE
@@ -9311,7 +9312,7 @@ M2503E1,watch,xiaomi,小米,O74,,Xiaomi 开放式耳机 Pro,
 GCDEJ01LS,watch,xiaomi,小米,,,Xiaomi 骨传导耳机,
 M2447E1,watch,xiaomi,小米,O73,,Xiaomi 骨传导耳机 2,
 TWSEJ01ZM,watch,xiaomi,小米,K76,,Redmi AirDots 3 Pro,
-M2104E1,watch,xiaomi,小米,,,Redmi Buds 3,
+M2104E1,watch,xiaomi,小米,K77,,Redmi Buds 3,
 M2110E1,watch,xiaomi,小米,K79,,Redmi Buds 3 青春版,
 M2133E1,watch,xiaomi,小米,K79,,Redmi Buds 3 Lite,国际版
 M2137E1,watch,xiaomi,小米,L77,,Redmi Buds 4,
@@ -9337,6 +9338,7 @@ M2349E1,watch,xiaomi,小米,N79A,,Redmi Buds 5C,印度版
 M2420E1,watch,xiaomi,小米,N79B,,Redmi Buds 6 Play,国际版
 M2411E1,watch,xiaomi,小米,N79B,,REDMI Buds SE,
 M2455E1,watch,xiaomi,小米,O77S,,REDMI Buds 7S,
+M2544E1,watch,xiaomi,小米,P77,,REDMI Buds 8,
 M2535E1,watch,xiaomi,小米,P76,,REDMI Buds 8 Pro,
 M2537E1,watch,xiaomi,小米,P79,,REDMI Buds 8 活力版,
 M2537E1,watch,xiaomi,小米,P79,,REDMI Buds 8 Active,国际版
