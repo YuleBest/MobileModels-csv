@@ -10177,11 +10177,11 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,印度版
 2509BRP2DC,pad,xiaomi,小米,P83X,organ,REDMI Pad 2 Pro 5G,国行版
 2509BRP2DG,pad,xiaomi,小米,P83X,organ,REDMI Pad 2 Pro 5G,国际版
 2509BRP2DI,pad,xiaomi,小米,P83X,organ,REDMI Pad 2 Pro 5G,印度版
-2603ARP14C,pad,xiaomi,小米,P85,,REDMI Pad 2 SE,国行版
-2603ARP14G,pad,xiaomi,小米,P85,,REDMI Pad 2 9.7,国际版
-2604ERP4DC,pad,xiaomi,小米,P85X,,REDMI Pad 2 SE 4G,国行版
-2604ERP4DG,pad,xiaomi,小米,P85X,,REDMI Pad 2 9.7 4G,国际版
-2604ERP4DI,pad,xiaomi,小米,P85X,,REDMI Pad 2 9.7 4G,印度版
+2603ARP14C,pad,xiaomi,小米,P85,guitar,REDMI Pad 2 SE,国行版
+2603ARP14G,pad,xiaomi,小米,P85,guitar,REDMI Pad 2 9.7,国际版
+2604ERP4DC,pad,xiaomi,小米,P85X,erhu,REDMI Pad 2 SE 4G,国行版
+2604ERP4DG,pad,xiaomi,小米,P85X,erhu,REDMI Pad 2 9.7 4G,国际版
+2604ERP4DI,pad,xiaomi,小米,P85X,erhu,REDMI Pad 2 9.7 4G,印度版
 25079RPDCC,pad,xiaomi,小米,O88,turner,REDMI K Pad,
 26048RP6AC,pad,xiaomi,小米,P88,yili,REDMI K Pad 2,
 M1805E10A,mob,xiaomi,小米,E10,beryllium,POCO F1,
@@ -10662,8 +10662,8 @@ M1803E6C,mob,xiaomi,小米,E6,ysl,红米 S2,联通电信定制版
 25040RP0AC,pad,xiaomi,小米,O84,taiko,REDMI Pad 2,
 25099RP13C,pad,xiaomi,小米,P83,flute,REDMI Pad 2 Pro,
 2509BRP2DC,pad,xiaomi,小米,P83X,organ,REDMI Pad 2 Pro 5G,
-2603ARP14C,pad,xiaomi,小米,P85,,REDMI Pad 2 SE,
-2604ERP4DC,pad,xiaomi,小米,P85X,,REDMI Pad 2 SE 4G,
+2603ARP14C,pad,xiaomi,小米,P85,guitar,REDMI Pad 2 SE,
+2604ERP4DC,pad,xiaomi,小米,P85X,erhu,REDMI Pad 2 SE 4G,
 25079RPDCC,pad,xiaomi,小米,O88,turner,REDMI K Pad,
 26048RP6AC,pad,xiaomi,小米,P88,yili,REDMI K Pad 2,
 FYJ01QP,pad,xiaomi,小米,,Babel,小米米家翻译机,
@@ -11576,11 +11576,11 @@ M2105K81C,pad,xiaomi,Xiaomi,K81,enuma,Xiaomi Pad 5 Pro 5G,China
 2509BRP2DG,pad,xiaomi,Xiaomi,P83X,organ,REDMI Pad 2 Pro 5G,Global
 2509BRP2DI,pad,xiaomi,Xiaomi,P83X,organ,REDMI Pad 2 Pro 5G,India
 2509BRP2DC,pad,xiaomi,Xiaomi,P83X,organ,REDMI Pad 2 Pro 5G,China
-2603ARP14G,pad,xiaomi,Xiaomi,P85,,REDMI Pad 2 9.7,Global
-2603ARP14C,pad,xiaomi,Xiaomi,P85,,REDMI Pad 2 SE,China
-2604ERP4DG,pad,xiaomi,Xiaomi,P85X,,REDMI Pad 2 9.7 4G,Global
-2604ERP4DI,pad,xiaomi,Xiaomi,P85X,,REDMI Pad 2 9.7 4G,India
-2604ERP4DC,pad,xiaomi,Xiaomi,P85X,,REDMI Pad 2 SE 4G,China
+2603ARP14G,pad,xiaomi,Xiaomi,P85,guitar,REDMI Pad 2 9.7,Global
+2603ARP14C,pad,xiaomi,Xiaomi,P85,guitar,REDMI Pad 2 SE,China
+2604ERP4DG,pad,xiaomi,Xiaomi,P85X,erhu,REDMI Pad 2 9.7 4G,Global
+2604ERP4DI,pad,xiaomi,Xiaomi,P85X,erhu,REDMI Pad 2 9.7 4G,India
+2604ERP4DC,pad,xiaomi,Xiaomi,P85X,erhu,REDMI Pad 2 SE 4G,China
 25079RPDCC,pad,xiaomi,Xiaomi,O88,turner,REDMI K Pad,China
 26048RP6AC,pad,xiaomi,Xiaomi,P88,yili,REDMI K Pad 2,China
 2405CPCFBG,pad,xiaomi,Xiaomi,N83P,dizi,POCO Pad,Wi-Fi Global
