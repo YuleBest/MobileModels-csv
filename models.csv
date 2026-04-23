@@ -9446,6 +9446,7 @@ M2234W1,watch,xiaomi,小米,M61,axolotl,Xiaomi Watch 2 Pro,蓝牙版
 M2233W1,watch,xiaomi,小米,M61,axolotlte,Xiaomi Watch 2 Pro,LTE
 M2501W1,watch,xiaomi,小米,O61,grass,Xiaomi Watch 5,蓝牙版
 M2505W1,watch,xiaomi,小米,O61LTE,grasslte,Xiaomi Watch 5,LTE
+M2501W1,watch,xiaomi,小米,O61W,blenny,Xiaomi Watch 5,国际版
 REDMIWT02,watch,xiaomi,小米,,,Mi Watch Lite,国际版
 XMWT06,watch,xiaomi,小米,,,小米手表 Color,
 XMWTCL01,watch,xiaomi,小米,,,小米手表 Color,运动版 国行版
@@ -10452,6 +10453,7 @@ M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,印度版
 2410FPCC5G,mob,xiaomi,小米,C3NP,lake,POCO C75,国际版
 2410FPCC5I,mob,xiaomi,小米,C3NP,lake,POCO C75,印度版
 24116PCC1I,mob,xiaomi,小米,C3F2,warm,POCO C75 5G,印度版
+25128PC17I,mob,xiaomi,小米,P25A,arctic,POCO C81,印度版
 25078PC3EG,mob,xiaomi,小米,P15A,dew,POCO C85,国际版
 25078PC3EE,mob,xiaomi,小米,P15A,dew,POCO C85,欧洲版
 2508CPC2BI,mob,xiaomi,小米,P15,tornado,POCO C85 5G,印度版
@@ -11685,6 +11687,7 @@ M2006C3MI,mob,xiaomi,Xiaomi,C3M,angelicain,POCO C3,India
 2410FPCC5G,mob,xiaomi,Xiaomi,C3NP,lake,POCO C75,Global
 2410FPCC5I,mob,xiaomi,Xiaomi,C3NP,lake,POCO C75,India
 24116PCC1I,mob,xiaomi,Xiaomi,C3F2,warm,POCO C75 5G,India
+25128PC17I,mob,xiaomi,Xiaomi,P25A,arctic,POCO C81,India
 25078PC3EG,mob,xiaomi,Xiaomi,P15A,dew,POCO C85,Global
 25078PC3EE,mob,xiaomi,Xiaomi,P15A,dew,POCO C85,Europe
 2508CPC2BI,mob,xiaomi,Xiaomi,P15,tornado,POCO C85 5G,India
