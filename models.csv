@@ -8869,6 +8869,7 @@ V2506A,mob,vivo,vivo,,PD2506,Y500,
 V2516A,mob,vivo,vivo,,PD2516,Y500 Pro,
 V2531A,mob,vivo,vivo,,PD2531,Y500i,
 V2531A,mob,vivo,vivo,,PD2531,Y500s,
+V2531A,mob,vivo,vivo,,PD2531,Y6,
 V2561A,mob,vivo,vivo,,PD2561,Y600 Pro,
 V2115A,mob,vivo,vivo,,PD2115,T1,
 V2123A,mob,vivo,vivo,,PD2123,T1x,
@@ -10177,6 +10178,7 @@ XIG05,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,5G 日本版 (KDDI)
 24117RN76L,mob,xiaomi,小米,O7,tanzanite,Redmi Note 14,拉美版
 24117RN76O,mob,xiaomi,小米,O7,tanzanite,Redmi Note 14,国际版 (NFC)
 24094RAD4C,mob,xiaomi,小米,O17,beryl,Redmi Note 14 5G,国行版
+24094RAD4C,mob,xiaomi,小米,O17,beryl,REDMI Note 15R Pro,国行版
 24094RAD4I,mob,xiaomi,小米,O17,beryl,Redmi Note 14 5G,印度版
 24094RAD4I,mob,xiaomi,小米,O17,beryl,Redmi Note 14 SE 5G,印度版
 24094RAD4G,mob,xiaomi,小米,O17,beryl,Redmi Note 14 5G,国际版
@@ -10753,6 +10755,7 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,
 2406ERN9CC,mob,xiaomi,小米,N19,breeze,Redmi Note 13R,
 2311FRAFDC,mob,xiaomi,小米,N17A,gold,Redmi Note 13R Pro,
 24094RAD4C,mob,xiaomi,小米,O17,beryl,Redmi Note 14 5G,
+24094RAD4C,mob,xiaomi,小米,O17,beryl,REDMI Note 15R Pro,
 24090RA29C,mob,xiaomi,小米,O16,malachite,Redmi Note 14 Pro,
 24115RA8EC,mob,xiaomi,小米,O16U,amethyst,Redmi Note 14 Pro+,
 25098RA98C,mob,xiaomi,小米,P17,kunzite,REDMI Note 15,
@@ -11448,6 +11451,7 @@ XIG05,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,Japan (KDDI)
 24094RAD4I,mob,xiaomi,Xiaomi,O17,beryl,Redmi Note 14 5G,India
 24094RAD4I,mob,xiaomi,Xiaomi,O17,beryl,Redmi Note 14 SE 5G,India
 24094RAD4C,mob,xiaomi,Xiaomi,O17,beryl,Redmi Note 14 5G,China
+24094RAD4C,mob,xiaomi,Xiaomi,O17,beryl,REDMI Note 15R Pro,China
 2502FRA65G,mob,xiaomi,Xiaomi,N6R,emerald,Redmi Note 14S,Global
 24116RACCG,mob,xiaomi,Xiaomi,O6,obsidian,Redmi Note 14 Pro,Global
 24090RA29G,mob,xiaomi,Xiaomi,O16,malachite,Redmi Note 14 Pro 5G,Global
