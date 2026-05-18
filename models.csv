@@ -1787,6 +1787,7 @@ AMG-AN00,mob,honor,荣耀,,MinaGT,荣耀 GT,
 PPG-AN00,mob,honor,荣耀,,PhilippeGT,荣耀 GT Pro,
 AAP-AN00,mob,honor,荣耀,,,荣耀 WIN,
 AAK-AN00,mob,honor,荣耀,,,荣耀 WIN RT,
+SER-AN00,mob,honor,荣耀,,Saber,荣耀 WIN Turbo,
 G750-T00,mob,honor,荣耀,,,荣耀 3X,双 3G 版
 G750-U00,mob,honor,荣耀,,,荣耀 3X,联通版
 G750-T20,mob,honor,荣耀,,,荣耀 3X,Pro
@@ -2174,6 +2175,7 @@ FRI-H56,pad,honor,荣耀,,FermiH,荣耀笔记本 X14 2024,R5 (16GB+512GB)
 FRG-X,pad,honor,荣耀,,FermiG,荣耀笔记本 X14 2025,
 GDG-X,pad,honor,荣耀,,GodelG,荣耀笔记本 X14 2025 战斗版,
 FRG-X,pad,honor,荣耀,,FermiG,荣耀笔记本 X14 2026,
+LVD-X,pad,honor,荣耀,,,荣耀笔记本 X14 2026 战斗版,
 GDH-X,pad,honor,荣耀,,GodelH,荣耀笔记本 X14 锐龙版 2026,
 FMI-76,pad,honor,荣耀,,FermiI,荣耀笔记本 X14 Plus 2024,R7 (16GB+512GB)
 FMI-721,pad,honor,荣耀,,FermiI,荣耀笔记本 X14 Plus 2024,R7 (32GB+1TB)
@@ -5661,6 +5663,8 @@ NX789J,mob,nubia,努比亚,,,红魔 10S Pro+,
 NX809J,mob,nubia,努比亚,,,红魔 11 Pro,
 NX809J,mob,nubia,努比亚,,,红魔 11 Pro+,
 NX799J,mob,nubia,努比亚,,,红魔 11 Air,
+NX809J,mob,nubia,努比亚,,,红魔 11S Pro,
+NX809J,mob,nubia,努比亚,,,红魔 11S Pro+,
 NP01J,pad,nubia,努比亚,,,红魔电竞平板,5G
 NP03J,pad,nubia,努比亚,,,红魔电竞平板 Pro,
 NP02J,pad,nubia,努比亚,,,红魔平板 · 3D 探索版,5G
