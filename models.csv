@@ -3149,7 +3149,7 @@ VGHH-16,computer,huawei,华为,,VanGoghH,HUAWEI MateBook X Pro 酷睿 Ultra,16GB
 VGHH-32,computer,huawei,华为,,VanGoghH,HUAWEI MateBook X Pro 酷睿 Ultra,32GB 内存
 HAD-W24,computer,huawei,华为,,Harden,HUAWEI MateBook Pro,24GB 内存
 HAD-W32,computer,huawei,华为,,Harden,HUAWEI MateBook Pro,32GB 内存
-HPR-W72,computer,huawei,华为,,Hooper,HUAWEI MateBook Fold 非凡大师,32GB 内存
+HPR-W72,computer,huawei,华为,,Hopper,HUAWEI MateBook Fold 非凡大师,32GB 内存
 WRT-W19,computer,huawei,华为,,Wright,HUAWEI MateBook 13,i5
 WRT-W19L,computer,huawei,华为,,Wright,HUAWEI MateBook 13,i5 Linux 版
 WRT-W29,computer,huawei,华为,,Wright,HUAWEI MateBook 13,i7
@@ -9553,8 +9553,11 @@ M2402B1,band,xiaomi,小米,N67,,小米手环 9 Pro,国际版
 M2435B1,band,xiaomi,小米,N69,,小米手环 9 Active,国际版
 M2457B1,band,xiaomi,小米,O66,,小米手环 10,
 M2456B1,band,xiaomi,小米,O66,,小米手环 10,NFC 版 / 陶瓷版
-M2551B1,band,xiaomi,小米,P67,,小米手环 10 Pro,金属版
-M2553B1,band,xiaomi,小米,P67,,小米手环 10 Pro,陶瓷版
+M2551B1,band,xiaomi,小米,P67,,小米手环 10 Pro,金属版 国行版
+M2553B1,band,xiaomi,小米,P67,,小米手环 10 Pro,陶瓷版 国行版
+M2552B1,band,xiaomi,小米,P67,,小米手环 10 Pro,国际版
+M2558B1,band,xiaomi,小米,P67,,小米手环 10 Pro,NFC 版 国际版
+M2559B1,band,xiaomi,小米,P67,,小米手环 10 Pro,陶瓷版 国际版
 XMWT01,watch,xiaomi,小米,,baiji,小米手表,
 M2320W1,watch,xiaomi,小米,M61C,axolotlaxie,Xiaomi Watch 2,
 M2234W1,watch,xiaomi,小米,M61,axolotl,Xiaomi Watch 2 Pro,蓝牙版
