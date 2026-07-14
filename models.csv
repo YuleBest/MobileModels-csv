@@ -3794,6 +3794,8 @@ HBP-LX9,mob,huawei,HUAWEI,,HepburnP,HUAWEI Pura 70 Ultra,
 HED-LX9,mob,huawei,HUAWEI,,Hedy,HUAWEI Pura 80,
 LMR-LX9,mob,huawei,HUAWEI,,Lamarr,HUAWEI Pura 80 Pro,
 LMU-LX9,mob,huawei,HUAWEI,,LamarrU,HUAWEI Pura 80 Ultra,
+MLN-LX9,mob,huawei,HUAWEI,,Malena,HUAWEI Pura 90s Pro,
+SCA-LX9,mob,huawei,HUAWEI,,Sicilia,HUAWEI Pura 90s Pro Max,
 FIG-LA1,mob,huawei,HUAWEI,,Figo,HUAWEI P smart,
 FIG-LX1,mob,huawei,HUAWEI,,Figo,HUAWEI P smart,
 FIG-LX2,mob,huawei,HUAWEI,,Figo,HUAWEI P smart,
@@ -5545,6 +5547,7 @@ A059P,mob,nothing,Nothing,,Asteroids,Nothing Phone (3a) Pro,
 A001T,mob,nothing,Nothing,,Galaxian,Nothing Phone (3a) Lite,
 A069,mob,nothing,Nothing,,Frogger,Nothing Phone (4a),
 A069P,mob,nothing,Nothing,,FroggerPro,Nothing Phone (4a) Pro,
+A009P,mob,nothing,Nothing,,SuperContra,Nothing Phone (4b),
 A015,mob,nothing,Nothing,,Tetris,CMF Phone 1,
 A001,mob,nothing,Nothing,,Galaga,CMF Phone 2 Pro,
 NX501,mob,nubia,努比亚,,,Z5,
@@ -5621,6 +5624,7 @@ Z2352N,mob,nubia,努比亚,,,Neo 2,5G
 Z2461,mob,nubia,努比亚,,,Neo 3,
 Z2464N,mob,nubia,努比亚,,,Neo 3,5G
 Z2465N,mob,nubia,努比亚,,,Neo 3 GT,5G
+Z2571N,mob,nubia,努比亚,,,Neo 5,5G
 Z2570N,mob,nubia,努比亚,,,Neo 5 GT,5G
 Z2353,mob,nubia,努比亚,,,Music,
 Z2460,mob,nubia,努比亚,,,Music 2,
