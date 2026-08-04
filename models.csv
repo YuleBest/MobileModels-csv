@@ -1370,7 +1370,7 @@ ASUSAI2501C,mob,asus,Asus,,AI2501,ROG Phone 9,Pro (Worldwide)
 ASUSAI2501D,mob,asus,Asus,,AI2501,ROG Phone 9,
 ASUSAI2501D,mob,asus,Asus,,AI2501,ROG Phone 9,Pro (US)
 ASUS_AI2401_N,mob,asus,Asus,,AI2401,ROG Phone 9 FE,
-ASUS_I007D,device,asus,Asus,,,Smartphone for Snapdragon Insiders,
+ASUS_I007D,mob,asus,Asus,,,Smartphone for Snapdragon Insiders,
 SKR-A0,mob,blackshark,黑鲨,,shark,黑鲨游戏手机,全网通版
 SKR-H0,mob,blackshark,黑鲨,,shark,黑鲨游戏手机,国际版
 AWM-A0,mob,blackshark,黑鲨,,bullhead,黑鲨游戏手机 Helo,
@@ -12026,37 +12026,37 @@ FYJ01QP,pad,xiaomi,Xiaomi,,Babel,Xiaomi Mijia Translator,
 2405AVPB7C,pad,xiaomi,Xiaomi,,,Xiaomi EV Cockpit,SU7 2024/SU7 Ultra
 25033VP3FC,pad,xiaomi,Xiaomi,,suiren,Xiaomi EV Cockpit,YU7/SU7 2026
 2503CVPC6C,mob,xiaomi,Xiaomi,P802,konghou,Xiaomi EV Back Row Mobile Control Screen,
-VP001,device,zhixuan,华为智选,,,优畅享 20 Plus,5G
-VP002,device,zhixuan,华为智选,,,优畅享 20,5G
-VP003,device,zhixuan,华为智选,,,优畅享 30e,5G
-VP004,device,zhixuan,华为智选,,,优畅享 30e,5G 消息版
-VP003,device,zhixuan,华为智选,,,优畅享 50,5G
-VP005,device,zhixuan,华为智选,,,优畅享 50 Plus,5G
-TYH601M,device,zhixuan,华为智选,,,麦芒 9,5G
-TYH611M,device,zhixuan,华为智选,,,麦芒 10 SE,5G
-TYH612M,device,zhixuan,华为智选,,,麦芒 10,5G
-TYH612M,device,zhixuan,华为智选,,,麦芒 · 十年臻爱版,
-TYH622M,device,zhixuan,华为智选,,,麦芒 11,5G
-TYH631M,device,zhixuan,华为智选,,,麦芒 20,5G
-TYH632M,device,zhixuan,华为智选,,,麦芒 A20,5G
-TYH641M,device,zhixuan,华为智选,,,麦芒 30,5G
-TYH651M-02,device,zhixuan,华为智选,,,麦芒 40,5G
-SP100,device,zhixuan,华为智选,,Giant,NZONE S7,5G
-SP200,device,zhixuan,华为智选,,Coco,NZONE S7 Pro,5G
-SP300,device,zhixuan,华为智选,,Monica,NZONE S7 Pro+,5G
-SP210,device,zhixuan,华为智选,,Ballon,NZONE 50 Pro,5G
-SP210T,device,zhixuan,华为智选,,Ballon,NZONE 50 Pro,5G
-Hera-BD00,device,zhixuan,华为智选,,,Hi nova 9,5G
-Hebe-BD00,device,zhixuan,华为智选,,,Hi nova 9 Pro,5G
-FIO-BD00,device,zhixuan,华为智选,,,Hi nova 9 SE,5G
-FIO-TL00,device,zhixuan,华为智选,,,Hi nova 9 SE,5G
-MNT-BD00,device,zhixuan,华为智选,,,Hi nova 9z,5G
-ALH-BD00,device,zhixuan,华为智选,,,Hi nova 10,5G
-MGZ-BD00,device,zhixuan,华为智选,,,Hi nova 10 Pro,5G
-MRK-BD00,device,zhixuan,华为智选,,,Hi nova 10 SE,5G
-MIZ-BD00,device,zhixuan,华为智选,,,Hi nova 11,5G
-SUP-BD00,device,zhixuan,华为智选,,,Hi nova 12 SE,5G
-SPR-BD00,device,zhixuan,华为智选,,,Hi nova 12z,5G
+VP001,mob,zhixuan,华为智选,,,优畅享 20 Plus,5G
+VP002,mob,zhixuan,华为智选,,,优畅享 20,5G
+VP003,mob,zhixuan,华为智选,,,优畅享 30e,5G
+VP004,mob,zhixuan,华为智选,,,优畅享 30e,5G 消息版
+VP003,mob,zhixuan,华为智选,,,优畅享 50,5G
+VP005,mob,zhixuan,华为智选,,,优畅享 50 Plus,5G
+TYH601M,mob,zhixuan,华为智选,,,麦芒 9,5G
+TYH611M,mob,zhixuan,华为智选,,,麦芒 10 SE,5G
+TYH612M,mob,zhixuan,华为智选,,,麦芒 10,5G
+TYH612M,mob,zhixuan,华为智选,,,麦芒 · 十年臻爱版,
+TYH622M,mob,zhixuan,华为智选,,,麦芒 11,5G
+TYH631M,mob,zhixuan,华为智选,,,麦芒 20,5G
+TYH632M,mob,zhixuan,华为智选,,,麦芒 A20,5G
+TYH641M,mob,zhixuan,华为智选,,,麦芒 30,5G
+TYH651M-02,mob,zhixuan,华为智选,,,麦芒 40,5G
+SP100,mob,zhixuan,华为智选,,Giant,NZONE S7,5G
+SP200,mob,zhixuan,华为智选,,Coco,NZONE S7 Pro,5G
+SP300,mob,zhixuan,华为智选,,Monica,NZONE S7 Pro+,5G
+SP210,mob,zhixuan,华为智选,,Ballon,NZONE 50 Pro,5G
+SP210T,mob,zhixuan,华为智选,,Ballon,NZONE 50 Pro,5G
+Hera-BD00,mob,zhixuan,华为智选,,,Hi nova 9,5G
+Hebe-BD00,mob,zhixuan,华为智选,,,Hi nova 9 Pro,5G
+FIO-BD00,mob,zhixuan,华为智选,,,Hi nova 9 SE,5G
+FIO-TL00,mob,zhixuan,华为智选,,,Hi nova 9 SE,5G
+MNT-BD00,mob,zhixuan,华为智选,,,Hi nova 9z,5G
+ALH-BD00,mob,zhixuan,华为智选,,,Hi nova 10,5G
+MGZ-BD00,mob,zhixuan,华为智选,,,Hi nova 10 Pro,5G
+MRK-BD00,mob,zhixuan,华为智选,,,Hi nova 10 SE,5G
+MIZ-BD00,mob,zhixuan,华为智选,,,Hi nova 11,5G
+SUP-BD00,mob,zhixuan,华为智选,,,Hi nova 12 SE,5G
+SPR-BD00,mob,zhixuan,华为智选,,,Hi nova 12z,5G
 BRO-W00,pad,zhixuan,华为智选,,,Hi MatePad,
 F810,mob,zhixuan,华为智选,,,雷鸟 FF1,5G
 NAT-TN70,mob,zhixuan,华为智选,,,TD Tech N8 Pro,
