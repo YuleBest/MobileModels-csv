@@ -1594,7 +1594,7 @@ GM66V,mob,google,Google,,rango,Pixel 10 Pro Fold,Japan
 GE1GQ,mob,google,Google,,stallion,Pixel 10a,US
 G4H7L,mob,google,Google,,stallion,Pixel 10a,Global
 GV0BP,mob,google,Google,,stallion,Pixel 10a,Japan
-C1502W,mob,google,Google,,dragon,Pixel C,
+C1502W,pad,google,Google,,dragon,Pixel C,
 GTU8P,pad,google,Google,,tangorpro,Pixel Tablet,
 GQF4C,watch,google,Google,,r11btwifi,Pixel Watch,Bluetooth & Wi-Fi
 GWT9R,watch,google,Google,,r11,Pixel Watch,LTE (US)
@@ -5878,7 +5878,7 @@ CPH2605,mob,oneplus,一加,,fanli-o,一加 Nord N30 SE,欧洲版
 DE2117,mob,oneplus,一加,,dre9,一加 Nord N200,北美版
 DE2118,mob,oneplus,一加,,dre8t,一加 Nord N200,T-Mobile 版
 CPH2389,mob,oneplus,一加,,hilda,一加 Nord N300,
-CPH2551,pad,oneplus,一加,,hedwig,一加 Open,
+CPH2551,mob,oneplus,一加,,hedwig,一加 Open,
 OPD2203,pad,oneplus,一加,,aries-o,一加平板 (2023),国际版
 OPD2304,pad,oneplus,一加,,bluey-o,一加平板 Go,LTE
 OPD2305,pad,oneplus,一加,,bluey-o,一加平板 Go,Wi-Fi
@@ -6083,7 +6083,7 @@ CPH2605,mob,oneplus,OnePlus,,fanli-o,OnePlus Nord N30 SE,Europe
 DE2117,mob,oneplus,OnePlus,,dre9,OnePlus Nord N200,North America
 DE2118,mob,oneplus,OnePlus,,dre8t,OnePlus Nord N200,T-Mobile
 CPH2389,mob,oneplus,OnePlus,,hilda,OnePlus Nord N300,
-CPH2551,pad,oneplus,OnePlus,,hedwig,OnePlus Open,
+CPH2551,mob,oneplus,OnePlus,,hedwig,OnePlus Open,
 OPD2203,pad,oneplus,OnePlus,,aries-o,OnePlus Pad (2023),Global
 OPD2304,pad,oneplus,OnePlus,,bluey-o,OnePlus Pad Go,LTE
 OPD2305,pad,oneplus,OnePlus,,bluey-o,OnePlus Pad Go,Wi-Fi
@@ -8344,7 +8344,7 @@ SM-A805N,mob,samsung,Samsung,,r1q,Galaxy A80,South Korea
 SM-A908B,mob,samsung,Samsung,,r3q,Galaxy A90 5G,Global
 SM-A9080,mob,samsung,Samsung,,r3q,Galaxy A90 5G,China
 SM-A908N,mob,samsung,Samsung,,r3q,Galaxy A90 5G,South Korea
-SM-A826S,mob,samsung,Samsung,,a82xq,Galaxy Quantum2,om2 South Korea
+SM-A826S,mob,samsung,Samsung,,a82xq,Galaxy Quantum2,South Korea
 SM-M015F,mob,samsung,Samsung,,m01q,Galaxy M01,
 SM-M015G,mob,samsung,Samsung,,m01q,Galaxy M01,
 SM-M013F,mob,samsung,Samsung,,a01core,Galaxy M01 Core,
