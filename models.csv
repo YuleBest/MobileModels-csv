@@ -3015,6 +3015,8 @@ MRDI-W20,pad,huawei,华为,,Morandi,HUAWEI MatePad Pro 12.2 英寸,2025 Wi-Fi �
 GEM-W00,pad,huawei,华为,,Gellman,HUAWEI MatePad Pro Max,13.2 英寸 Wi-Fi 版
 GEM-W10,pad,huawei,华为,,Gellman,HUAWEI MatePad Pro Max,13.2 英寸 Wi-Fi 版 (20GB+1TB)
 GEM-W40,pad,huawei,华为,,Gellman,HUAWEI MatePad Pro Max,13.2 英寸 悦享款 Wi-Fi 版
+DAL-W00,pad,huawei,华为,,Dali,HUAWEI MatePad Pro 12 英寸,Wi-Fi 版
+DAL-W20,pad,huawei,华为,,Dali,HUAWEI MatePad Pro 12 英寸,悦享款 Wi-Fi 版
 QXS-W00,pad,huawei,华为,,Qianxuesen,HUAWEI MatePad Edge,
 QXS-W10,pad,huawei,华为,,Qianxuesen,HUAWEI MatePad Edge,24GB+1TB
 QXS-W20,pad,huawei,华为,,Qianxuesen,HUAWEI MatePad Edge,液冷版
@@ -3156,7 +3158,11 @@ VGHH-16,computer,huawei,华为,,VanGoghH,HUAWEI MateBook X Pro 酷睿 Ultra,16GB
 VGHH-32,computer,huawei,华为,,VanGoghH,HUAWEI MateBook X Pro 酷睿 Ultra,32GB 内存
 HAD-W24,computer,huawei,华为,,Harden,HUAWEI MateBook Pro,24GB 内存
 HAD-W32,computer,huawei,华为,,Harden,HUAWEI MateBook Pro,32GB 内存
-HPR-W72,computer,huawei,华为,,Hopper,HUAWEI MateBook Fold 非凡大师,32GB 内存
+MOR-M1,computer,huawei,华为,,,HUAWEI MateBook Pro S,标准版 / 防窥版 / 柔光版
+MOR-M2,computer,huawei,华为,,,HUAWEI MateBook Pro S,典藏版
+HPR-W72,computer,huawei,华为,,Hopper,HUAWEI MateBook Fold 非凡大师,(麒麟 X90) (32GB 内存)
+SLM-W24,computer,huawei,华为,,,HUAWEI MateBook Fold 非凡大师,(麒麟 X90 Plus) (24GB 内存)
+SLM-W32,computer,huawei,华为,,,HUAWEI MateBook Fold 非凡大师,(麒麟 X90 Plus) (32GB 内存)
 WRT-W19,computer,huawei,华为,,Wright,HUAWEI MateBook 13,i5
 WRT-W19L,computer,huawei,华为,,Wright,HUAWEI MateBook 13,i5 Linux 版
 WRT-W29,computer,huawei,华为,,Wright,HUAWEI MateBook 13,i7
@@ -3567,6 +3573,9 @@ KSU-B19,watch,huawei,华为,,Konsu,HUAWEI WATCH GT 6,41mm
 ATM-B19,watch,huawei,华为,,Atum,HUAWEI WATCH GT 6,46mm
 KSU-B29,watch,huawei,华为,,Konsu,HUAWEI WATCH GT 6 Pro,42mm
 ATM-B29,watch,huawei,华为,,Atum,HUAWEI WATCH GT 6 Pro,46mm
+NSU-B39,watch,huawei,华为,,,HUAWEI WATCH GT 7,41mm
+TUM-B39,watch,huawei,华为,,,HUAWEI WATCH GT 7,46mm
+TUM-B49,watch,huawei,华为,,,HUAWEI WATCH GT 7 Pro,46mm
 RUN-B19,watch,huawei,华为,,Runner,HUAWEI WATCH GT Runner,
 RUN-B29,watch,huawei,华为,,Runner,HUAWEI WATCH GT Runner,
 CHT-B19,watch,huawei,华为,,Chitu,HUAWEI WATCH GT Runner 2,
@@ -12089,6 +12098,7 @@ LYOI-32,mob,zhixuan,华为智选,,LyonI,Hi MateBook D 14,32GB 内存
 NICG-16,mob,zhixuan,华为智选,,NiceG,Hi MateBook D 16,(13 代酷睿) (16GB 内存)
 NICI-16,mob,zhixuan,华为智选,,NiceI,Hi MateBook D 16,16GB 内存
 NICI-32,mob,zhixuan,华为智选,,NiceI,Hi MateBook D 16,32GB 内存
+RMA-X,mob,zhixuan,华为智选,,RomeA,Hi MateBook D 16,锐龙版
 ZTE A2017,mob,zte,中兴,,,中兴天机 7,
 ZTE A2018,mob,zte,中兴,,,中兴天机 7S,
 ZTE C2017,mob,zte,中兴,,,中兴天机 7 MAX,
