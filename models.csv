@@ -10209,13 +10209,13 @@ A501XM,mob,xiaomi,小米,O19,spring,REDMI 15 5G,日本版 (SoftBank)
 25078RA3EY,mob,xiaomi,小米,P15A,dew,REDMI 15C,国际版 (NFC)
 25078RA3EE,mob,xiaomi,小米,P15A,dew,REDMI 15C,欧洲版
 25078RA3EL,mob,xiaomi,小米,P15A,dew,REDMI 15C,拉美版
-2508CRN2BC,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,国行版
 2508CRN2BG,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,国际版
 2508CRN2BE,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,欧洲版
 2508CRN2BI,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,印度版
 2508CRN2BR,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,日本版
 25082RNC1C,mob,xiaomi,小米,P15X,tornado,REDMI 15R 5G,
 2602BRNA4I,mob,xiaomi,小米,P25,somalia,REDMI 15A 5G,印度版
+2602BRNA4C,mob,xiaomi,小米,P25,somalia,REDMI 17 5G,国行版
 2014018,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 标准版
 2013121,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 增强版
 2014017,mob,xiaomi,小米,H3TD,lcsh92_wet_xm_td,红米 Note,移动 3G 标准版
@@ -10926,8 +10926,8 @@ M2006C3LC,mob,xiaomi,小米,C3L,dandelion,Redmi 9A,
 2409BRN2CC,mob,xiaomi,小米,C3N,lake,Redmi 14C,
 2409BRN2CC,mob,xiaomi,小米,C3N,lake,REDMI 17C,
 2411DRN47C,mob,xiaomi,小米,C3F,flame,Redmi 14R 5G,
-2508CRN2BC,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,
 25082RNC1C,mob,xiaomi,小米,P15X,tornado,REDMI 15R 5G,
+2602BRNA4C,mob,xiaomi,小米,P25,somalia,REDMI 17 5G,
 2014018,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 标准版
 2013121,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 增强版
 2014017,mob,xiaomi,小米,H3TD,lcsh92_wet_xm_td,红米 Note,移动 3G 标准版
@@ -11516,10 +11516,10 @@ A501XM,mob,xiaomi,Xiaomi,O19,spring,REDMI 15 5G,Japan (SoftBank)
 2508CRN2BG,mob,xiaomi,Xiaomi,P15,tornado,REDMI 15C 5G,Global
 2508CRN2BE,mob,xiaomi,Xiaomi,P15,tornado,REDMI 15C 5G,Europe
 2508CRN2BI,mob,xiaomi,Xiaomi,P15,tornado,REDMI 15C 5G,India
-2508CRN2BC,mob,xiaomi,Xiaomi,P15,tornado,REDMI 15C 5G,China
 2508CRN2BR,mob,xiaomi,Xiaomi,P15,tornado,REDMI 15C 5G,Japan
 25082RNC1C,mob,xiaomi,Xiaomi,P15X,tornado,REDMI 15R 5G,China
 2602BRNA4I,mob,xiaomi,Xiaomi,P25,somalia,REDMI 15A 5G,India
+2602BRNA4C,mob,xiaomi,Xiaomi,P25,somalia,REDMI 17 5G,China
 2014018,mob,xiaomi,Xiaomi,H3W,lcsh92_wet_gb9,Redmi Note,WCDMA (1GB RAM)
 2013121,mob,xiaomi,Xiaomi,H3W,lcsh92_wet_gb9,Redmi Note,WCDMA (2GB RAM)
 2014017,mob,xiaomi,Xiaomi,H3TD,lcsh92_wet_xm_td,Redmi Note,TD-SCDMA (1GB RAM)
