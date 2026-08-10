@@ -10230,8 +10230,13 @@ A501XM,mob,xiaomi,小米,O19,spring,REDMI 15 5G,日本版 (SoftBank)
 2508CRN2BI,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,印度版
 2508CRN2BR,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,日本版
 25082RNC1C,mob,xiaomi,小米,P15X,tornado,REDMI 15R 5G,
-2602BRNA4I,mob,xiaomi,小米,P25,somalia,REDMI 15A 5G,印度版
-2602BRNA4C,mob,xiaomi,小米,P25,somalia,REDMI 17 5G,国行版
+2602BRNA4I,mob,xiaomi,小米,P25X,somalia,REDMI 15A 5G,印度版
+2602BRNA4C,mob,xiaomi,小米,P25X,somalia,REDMI 17 5G,国行版
+26062RN92G,mob,xiaomi,小米,Q15,steppe,REDMI 17 5G,国际版
+26062RN92I,mob,xiaomi,小米,Q15,steppe,REDMI 17 5G,印度版
+2606FRN72Y,mob,xiaomi,小米,Q15A,,REDMI 17,国际版
+2606FRN72L,mob,xiaomi,小米,Q15A,,REDMI 17,拉美版
+2607FRNEAG,mob,xiaomi,小米,P15R,tornado,REDMI 17C 5G,国际版
 2014018,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 标准版
 2013121,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 增强版
 2014017,mob,xiaomi,小米,H3TD,lcsh92_wet_xm_td,红米 Note,移动 3G 标准版
@@ -10507,6 +10512,8 @@ M2012K10C,mob,xiaomi,小米,K10,ares,Redmi K40 游戏增强版,
 25102RK69C,mob,xiaomi,小米,P11UIP,myron,REDMI K90 Pro Max,冠军版
 2604FRK1EC,mob,xiaomi,小米,P12,prague,REDMI K90 Max,
 M332BF,mob,xiaomi,小米,P12X,warsaw,REDMI K90 至尊版,
+M511CD,mob,xiaomi,小米,Q11,athens,REDMI K100 Pro,
+M098FE,mob,xiaomi,小米,Q11X,songyuan,REDMI K100 Pro Max,
 2016020,mob,xiaomi,小米,H3C,omega,红米 Pro,标准版
 2016021,mob,xiaomi,小米,H3C,omega,红米 Pro,高配版 / 尊享版
 M1803E6E,mob,xiaomi,小米,E6,ysl,红米 S2,全网通版
@@ -10557,6 +10564,7 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,印度版
 26020RN1AC,mob,xiaomi,小米,P25,somalia,REDMI R70 5G,国行版
 26020RN1AC,mob,xiaomi,小米,P25,somalia,REDMI R70m 5G,国行版
 26020RN1AI,mob,xiaomi,小米,P25,somalia,REDMI A7 Pro 5G,印度版
+26062RN92C,mob,xiaomi,小米,Q15,steppe,REDMI M100,
 22081283C,pad,xiaomi,小米,L83,yunluo,Redmi Pad,国行版
 22081283G,pad,xiaomi,小米,L83,yunluo,Redmi Pad,国际版
 23073RPBFC,pad,xiaomi,小米,M84,xun,Redmi Pad SE,国行版
@@ -10674,7 +10682,8 @@ M2103K19PI,mob,xiaomi,小米,K19P,camellia,POCO M3 Pro 5G,印度版
 25118PC98G,mob,xiaomi,小米,P17,kunzite,POCO M8 5G,国际版
 25118PC98I,mob,xiaomi,小米,P17,kunzite,POCO M8 5G,印度版
 2510EPC8BG,mob,xiaomi,小米,P16U,flourite,POCO M8 Pro 5G,国际版
-26021PC18I,mob,xiaomi,小米,P19P,mist,POCO M8 Power,印度版
+26021PC18I,mob,xiaomi,小米,P19P,mist,POCO M8 Power,5G 印度版
+26062PC92I,mob,xiaomi,小米,Q15,steppe,REDMI M8x,POCO M8x 5G 印度版
 M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,印度版
 211033MI,mob,xiaomi,小米,C3M2,angelicain,POCO C31,印度版
 220333QPG,mob,xiaomi,小米,C3QP,frost,POCO C40,国际版
@@ -10943,7 +10952,7 @@ M2006C3LC,mob,xiaomi,小米,C3L,dandelion,Redmi 9A,
 2409BRN2CC,mob,xiaomi,小米,C3N,lake,REDMI 17C,
 2411DRN47C,mob,xiaomi,小米,C3F,flame,Redmi 14R 5G,
 25082RNC1C,mob,xiaomi,小米,P15X,tornado,REDMI 15R 5G,
-2602BRNA4C,mob,xiaomi,小米,P25,somalia,REDMI 17 5G,
+2602BRNA4C,mob,xiaomi,小米,P25X,somalia,REDMI 17 5G,
 2014018,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 标准版
 2013121,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 增强版
 2014017,mob,xiaomi,小米,H3TD,lcsh92_wet_xm_td,红米 Note,移动 3G 标准版
@@ -11076,6 +11085,8 @@ M2012K10C,mob,xiaomi,小米,K10,ares,Redmi K40 游戏增强版,
 25102RK69C,mob,xiaomi,小米,P11UIP,myron,REDMI K90 Pro Max,冠军版
 2604FRK1EC,mob,xiaomi,小米,P12,prague,REDMI K90 Max,
 M332BF,mob,xiaomi,小米,P12X,warsaw,REDMI K90 至尊版,
+M511CD,mob,xiaomi,小米,Q11,athens,REDMI K100 Pro,
+M098FE,mob,xiaomi,小米,Q11X,songyuan,REDMI K100 Pro Max,
 2016020,mob,xiaomi,小米,H3C,omega,红米 Pro,标准版
 2016021,mob,xiaomi,小米,H3C,omega,红米 Pro,高配版 / 尊享版
 M1803E6E,mob,xiaomi,小米,E6,ysl,红米 S2,全网通版
@@ -11083,6 +11094,7 @@ M1803E6T,mob,xiaomi,小米,E6,ysl,红米 S2,移动 4G+ 版
 M1803E6C,mob,xiaomi,小米,E6,ysl,红米 S2,联通电信定制版
 26020RN1AC,mob,xiaomi,小米,P25,somalia,REDMI R70 5G,
 26020RN1AC,mob,xiaomi,小米,P25,somalia,REDMI R70m 5G,
+26062RN92C,mob,xiaomi,小米,Q15,steppe,REDMI M100,
 22081283C,pad,xiaomi,小米,L83,yunluo,Redmi Pad,
 23073RPBFC,pad,xiaomi,小米,M84,xun,Redmi Pad SE,
 23073RPBFC,pad,xiaomi,小米,M84,xun,Redmi Pad M7,
@@ -11534,8 +11546,13 @@ A501XM,mob,xiaomi,Xiaomi,O19,spring,REDMI 15 5G,Japan (SoftBank)
 2508CRN2BI,mob,xiaomi,Xiaomi,P15,tornado,REDMI 15C 5G,India
 2508CRN2BR,mob,xiaomi,Xiaomi,P15,tornado,REDMI 15C 5G,Japan
 25082RNC1C,mob,xiaomi,Xiaomi,P15X,tornado,REDMI 15R 5G,China
-2602BRNA4I,mob,xiaomi,Xiaomi,P25,somalia,REDMI 15A 5G,India
-2602BRNA4C,mob,xiaomi,Xiaomi,P25,somalia,REDMI 17 5G,China
+2602BRNA4I,mob,xiaomi,Xiaomi,P25X,somalia,REDMI 15A 5G,India
+2602BRNA4C,mob,xiaomi,Xiaomi,P25X,somalia,REDMI 17 5G,China
+26062RN92G,mob,xiaomi,Xiaomi,Q15,steppe,REDMI 17 5G,Global
+26062RN92I,mob,xiaomi,Xiaomi,Q15,steppe,REDMI 17 5G,India
+2606FRN72Y,mob,xiaomi,Xiaomi,Q15A,,REDMI 17,Global
+2606FRN72L,mob,xiaomi,Xiaomi,Q15A,,REDMI 17,Latin America
+2607FRNEAG,mob,xiaomi,Xiaomi,P15R,tornado,REDMI 17C 5G,Global
 2014018,mob,xiaomi,Xiaomi,H3W,lcsh92_wet_gb9,Redmi Note,WCDMA (1GB RAM)
 2013121,mob,xiaomi,Xiaomi,H3W,lcsh92_wet_gb9,Redmi Note,WCDMA (2GB RAM)
 2014017,mob,xiaomi,Xiaomi,H3TD,lcsh92_wet_xm_td,Redmi Note,TD-SCDMA (1GB RAM)
@@ -11812,6 +11829,8 @@ M2012K10C,mob,xiaomi,Xiaomi,K10,ares,Redmi K40 Gaming,China
 25102RK69C,mob,xiaomi,Xiaomi,P11UIP,myron,REDMI K90 Pro Max,Automobili Lamborghini Squadra Corse China
 2604FRK1EC,mob,xiaomi,Xiaomi,P12,prague,REDMI K90 Max,China
 M332BF,mob,xiaomi,Xiaomi,P12X,warsaw,REDMI K90 Ultra,China
+M511CD,mob,xiaomi,Xiaomi,Q11,athens,REDMI K100 Pro,China
+M098FE,mob,xiaomi,Xiaomi,Q11X,songyuan,REDMI K100 Pro Max,China
 2016020,mob,xiaomi,Xiaomi,H3C,omega,Redmi Pro,32GB
 2016021,mob,xiaomi,Xiaomi,H3C,omega,Redmi Pro,64GB & 128GB
 M1803E6G,mob,xiaomi,Xiaomi,E6,ysl,Redmi S2,Global
@@ -11862,6 +11881,7 @@ M1903C3GI,mob,xiaomi,Xiaomi,C3G,tiare,Redmi Go,India
 26020RN1AI,mob,xiaomi,Xiaomi,P25,somalia,REDMI A7 Pro 5G,India
 26020RN1AC,mob,xiaomi,Xiaomi,P25,somalia,REDMI R70 5G,China
 26020RN1AC,mob,xiaomi,Xiaomi,P25,somalia,REDMI R70m 5G,China
+26062RN92C,mob,xiaomi,Xiaomi,Q15,steppe,REDMI M100,China
 M1805E10A,mob,xiaomi,Xiaomi,E10,beryllium,POCO F1,
 M2004J11G,mob,xiaomi,Xiaomi,J11,lmi,POCO F2 Pro,Global
 M2012K11AG,mob,xiaomi,Xiaomi,K11A,alioth,POCO F3,Global
@@ -11942,7 +11962,8 @@ M2103K19PI,mob,xiaomi,Xiaomi,K19P,camellia,POCO M3 Pro 5G,India
 25118PC98G,mob,xiaomi,Xiaomi,P17,kunzite,POCO M8 5G,Global
 25118PC98I,mob,xiaomi,Xiaomi,P17,kunzite,POCO M8 5G,India
 2510EPC8BG,mob,xiaomi,Xiaomi,P16U,flourite,POCO M8 Pro 5G,Global
-26021PC18I,mob,xiaomi,Xiaomi,P19P,mist,POCO M8 Power,India
+26021PC18I,mob,xiaomi,Xiaomi,P19P,mist,POCO M8 Power,5G India
+26062PC92I,mob,xiaomi,Xiaomi,Q15,steppe,REDMI M8x,POCO M8x 5G India
 M2006C3MI,mob,xiaomi,Xiaomi,C3M,angelicain,POCO C3,India
 211033MI,mob,xiaomi,Xiaomi,C3M2,angelicain,POCO C31,India
 220333QPG,mob,xiaomi,Xiaomi,C3QP,frost,POCO C40,Global
