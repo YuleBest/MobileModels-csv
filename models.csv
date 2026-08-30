@@ -4176,7 +4176,7 @@ TB370FU,pad,lenovo,联想,,spruce,小新 Pad Pro 12.7 天玑版,
 TB375FC,pad,lenovo,联想,,peridot,小新 Pad Pro 12.7 2025,
 TB710FU,pad,lenovo,联想,,topaz,小新平板 Pro GT,
 TB376FC,pad,lenovo,联想,,malbec,联想 AI 平板 小新 Pro 13,
-TB378FC,pad,lenovo,联想,,,联想 AI 平板 小新 Pro GT 13,
+TB378FC,pad,lenovo,联想,,zhiyu,联想 AI 平板 小新 Pro GT 13,
 TB351FU,pad,lenovo,联想,,calla,小新 Pad Studio,
 TB372FC,pad,lenovo,联想,,spruce,小新学习平板,12.7
 Lenovo YT3-850F,pad,lenovo,联想,,,YOGA Tab 3,8” Wi-Fi 版
@@ -4278,6 +4278,7 @@ Lenovo TB-J606N,pad,lenovo,联想,,m11,联想平板电脑 K11,11 英寸 LTE 版
 QBH10,pad,lenovo,联想,,barley,联想平板电脑 S11,10.95 英寸 Wi-Fi 版
 QBH11,pad,lenovo,联想,,citrus,联想平板电脑 S11 Pro,11.5 英寸 Wi-Fi 版
 TB610FU,pad,lenovo,联想,,gem,ThinkBook Plus Hybrid 2024,平板
+TB838,pad,lenovo,联想,,sycamore,ThinkTab T11S,11 英寸 Wi-Fi 版
 Letv X600,mob,letv,乐视,,,乐 1,通用版
 Letv X608,mob,letv,乐视,,,乐 1,移动定制版
 Letv X500,mob,letv,乐视,,,乐 1s,通用版
@@ -9355,14 +9356,14 @@ V2634,mob,vivo,vivo,,,V70 Lite,
 V2635,mob,vivo,vivo,,,V70 Lite,
 V2615,mob,vivo,vivo,,PD2512F,V70 Lite 5G,
 V2637,mob,vivo,vivo,,PD2512F,V70 Lite 5G,
-V2576,mob,vivo,vivo,,,V80 Lite 5G,
-V2643,mob,vivo,vivo,,,V80 Lite 5G,
-V2644,mob,vivo,vivo,,,V80 Lite 5G,
+V2576,mob,vivo,vivo,,PD2575F,V80 Lite 5G,
+V2643,mob,vivo,vivo,,PD2575F,V80 Lite 5G,
+V2644,mob,vivo,vivo,,PD2575F,V80 Lite 5G,
 vivo 1907,mob,vivo,vivo,,PD1913F,S1,
 V1937,mob,vivo,vivo,,PD1982F,S1 Prime,
 vivo 1920,mob,vivo,vivo,,PD1945F,S1 Pro,
 vivo 1920_20,mob,vivo,vivo,,PD1945F,S1 Pro,
-V2576,mob,vivo,vivo,,,S2,
+V2576,mob,vivo,vivo,,PD2575F,S2,
 V2153,mob,vivo,vivo,,PD2201F,T1,
 V2168,mob,vivo,vivo,,PD2201F,T1,
 V2141,mob,vivo,vivo,,PD2165F,T1 5G,
@@ -9532,6 +9533,8 @@ V2636,mob,vivo,vivo,,PD2533F,Y31d,
 V2543,mob,vivo,vivo,,PD2533F,Y31d Pro,
 V2533,mob,vivo,vivo,,PD2511F,Y31e 5G,
 V2614,mob,vivo,vivo,,PD2511F,Y31s 5G,
+V2571,mob,vivo,vivo,,,Y31t 5G,
+V2574,mob,vivo,vivo,,,Y31t 5G,
 V2057,mob,vivo,vivo,,PD2103F,Y33,
 V2109-EG,mob,vivo,vivo,,PD2142F,Y33A,
 V2109,mob,vivo,vivo,,PD2147F,Y33s,
