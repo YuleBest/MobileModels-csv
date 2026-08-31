@@ -6980,6 +6980,7 @@ RMX5171,mob,realme,realme,,chopard-b,16 5G,
 RMX5120,mob,realme,realme,,iwc,16 Pro 5G,
 RMX5131,mob,realme,realme,,zenith,16 Pro+ 5G,
 RMX5268,mob,realme,realme,,mumbai-h,16T 5G,
+RMX5270,mob,realme,realme,,,16x 5G,
 RMX1901,mob,realme,realme,,,X,
 RMX1921,mob,realme,realme,,,XT,Global
 RMX1922,mob,realme,realme,,,XT,India
@@ -7090,8 +7091,10 @@ RMX5253,mob,realme,realme,,mumbai,C85 5G,
 RMX5555,mob,realme,realme,,moscow-a,C85 Pro,
 RMX5353,mob,realme,realme,,madrid,C100,
 RMX5258,mob,realme,realme,,mumbai-d,C100 5G,
-RMX5377,mob,realme,realme,,nairobi-a,C100i,
+RMX5377,mob,realme,realme,,nairobi-a,C100i,Global
+RMX5399,mob,realme,realme,,nairobi-a,C100i,India
 RMX5366,mob,realme,realme,,nairobi,C100x,
+RMX5363,mob,realme,realme,,,C100d,
 RMX3834,mob,realme,realme,,hulk-k,Note 50,
 RMX3933,mob,realme,realme,,latte-a,Note 60,
 RMX3933,mob,realme,realme,,latte-a,Note 60s,
@@ -7124,6 +7127,7 @@ RMX5107,mob,realme,realme,,casio-m,P4 Power,5G
 RMX5313,mob,realme,realme,,latte-t,P4 Lite,
 RMX5261,mob,realme,realme,,mumbai-c2,P4 Lite 5G,
 RMX5266,mob,realme,realme,,,P4R 5G,
+RMX5125,mob,realme,realme,,,P4s 5G,
 RMX2002,mob,realme,realme,,nemo,Narzo,Indonesia
 RMX2040,mob,realme,realme,,,Narzo 10,India
 RMX2020,mob,realme,realme,,,Narzo 10A,India
