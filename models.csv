@@ -2020,6 +2020,7 @@ CGA-W00,pad,honor,荣耀,,Changan,荣耀平板 MagicPad 3,13.3 英寸 Wi-Fi 版
 CGL-W00,pad,honor,荣耀,,,荣耀 MagicPad 3 12.5,英寸 Wi-Fi 版
 YLP-W00,pad,honor,荣耀,,,荣耀 MagicPad 3 Pro 13.3,英寸 Wi-Fi 版
 YLE-W09,pad,honor,荣耀,,Yongle,荣耀 MagicPad 3 Pro 12.3,英寸 Wi-Fi 版
+MLA-W09,pad,honor,荣耀,,Mulan,荣耀 MagicPad 4,12.1 英寸 Wi-Fi 版
 ROL-W60,pad,honor,荣耀,,Rowling,荣耀平板 GT,11.5 英寸 Wi-Fi 版
 ROD2-W69,pad,honor,荣耀,,Rolland2,荣耀平板 GT Pro,12.3 英寸 Wi-Fi 版
 CHG-W60,pad,honor,荣耀,,,荣耀平板 GT2 Pro,12.5 英寸 Wi-Fi 版
@@ -2554,7 +2555,7 @@ HEY2-N09,pad,honor,HONOR,,Hendry2,HONOR Pad 9,5G
 HEY3-W00,pad,honor,HONOR,,Hendry3,HONOR Pad 10,Wi-Fi
 HEY3-N09,pad,honor,HONOR,,Hendry3,HONOR Pad 10,5G
 HEY4-W09,pad,honor,HONOR,,Hendry4,HONOR Pad 20,Wi-Fi
-MLA-W09,pad,honor,HONOR,,,HONOR Pad 20 Pro,Wi-Fi
+MLA-W09,pad,honor,HONOR,,Mulan,HONOR Pad 20 Pro,Wi-Fi
 ROL-W00,pad,honor,HONOR,,Rowling,HONOR Pad V9,
 ROD2-W09,pad,honor,HONOR,,Rolland2,HONOR MagicPad2,
 CGA-W00,pad,honor,HONOR,,Changan,HONOR MagicPad3,
@@ -9711,8 +9712,8 @@ M2553B1,band,xiaomi,小米,P67,,小米手环 10 Pro,陶瓷版 国行版
 M2552B1,band,xiaomi,小米,P67,,小米手环 10 Pro,国际版
 M2558B1,band,xiaomi,小米,P67,,小米手环 10 Pro,NFC 版 国际版
 M2559B1,band,xiaomi,小米,P67,,小米手环 10 Pro,陶瓷版 国际版
-M2616B1,band,xiaomi,小米,,,小米手环 11,
-M2617B1,band,xiaomi,小米,,,小米手环 11,NFC 版 / 陶瓷版 / 全金属版
+M2616B1,band,xiaomi,小米,Q66,,小米手环 11,
+M2617B1,band,xiaomi,小米,Q66,,小米手环 11,NFC 版 / 陶瓷版 / 全金属版
 XMWT01,watch,xiaomi,小米,,baiji,小米手表,
 M2320W1,watch,xiaomi,小米,M61C,axolotlaxie,Xiaomi Watch 2,
 M2234W1,watch,xiaomi,小米,M61,axolotl,Xiaomi Watch 2 Pro,蓝牙版
@@ -9777,6 +9778,7 @@ M2419E1,watch,xiaomi,小米,N79,,小米 Air4 SE,
 M2341E1,watch,xiaomi,小米,N75,,Xiaomi Buds 5,
 M2437E1,watch,xiaomi,小米,O71,,Xiaomi Buds 5 Pro,蓝牙版
 M2438E1,watch,xiaomi,小米,O71,,Xiaomi Buds 5 Pro,Wi-Fi 版
+M2610E1,watch,xiaomi,小米,P76S,,Xiaomi Air5,
 M2540E1,watch,xiaomi,小米,P75,,Xiaomi Buds 6,
 M2503E1,watch,xiaomi,小米,O74,,Xiaomi 开放式耳机 Pro,
 GCDEJ01LS,watch,xiaomi,小米,,,Xiaomi 骨传导耳机,
