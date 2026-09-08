@@ -3554,9 +3554,13 @@ HD65NEWN,tv,huawei,华为,,,华为 Vision 智慧屏 5 Pro,65
 HD75NEWN,tv,huawei,华为,,,华为 Vision 智慧屏 5 Pro,75
 HD85NEWN,tv,huawei,华为,,,华为 Vision 智慧屏 5 Pro,85
 HD6XWATN,tv,huawei,华为,,,华为 Vision 智慧屏 6,65
+HD1XWATN,tv,huawei,华为,,,华为 Vision 智慧屏 6,悦享版 65
 HD7XWATN,tv,huawei,华为,,,华为 Vision 智慧屏 6,75
+HD77WATN,tv,huawei,华为,,,华为 Vision 智慧屏 6,悦享版 75
 HD8XWATN,tv,huawei,华为,,,华为 Vision 智慧屏 6,85
+HD85WATN,tv,huawei,华为,,,华为 Vision 智慧屏 6,悦享版 85
 HD9XWATN,tv,huawei,华为,,,华为 Vision 智慧屏 6,98
+HD98WATN,tv,huawei,华为,,,华为 Vision 智慧屏 6,悦享版 98
 HD55KLY26A,tv,huawei,华为,,,华为 Vision 智慧屏 6 SE,55
 HD55KLY26E,tv,huawei,华为,,,华为 Vision 智慧屏 6 SE,RGB 55
 HD65KLY26A,tv,huawei,华为,,,华为 Vision 智慧屏 6 SE,65
@@ -7040,6 +7044,7 @@ RMX5120,mob,realme,realme,,iwc,16 Pro 5G,
 RMX5131,mob,realme,realme,,zenith,16 Pro+ 5G,
 RMX5268,mob,realme,realme,,mumbai-h,16T 5G,
 RMX5270,mob,realme,realme,,,16x 5G,
+RMX5366,mob,realme,realme,,,16 Lite,
 RMX1901,mob,realme,realme,,,X,
 RMX1921,mob,realme,realme,,,XT,Global
 RMX1922,mob,realme,realme,,,XT,India
@@ -7138,7 +7143,8 @@ RMX3997,mob,realme,realme,,barley-e,C65 5G,
 RMX3939,mob,realme,realme,,latte-b,C65s,
 RMX3890,mob,realme,realme,,zoe,C67,
 RMX3782,mob,realme,realme,,chongqing,C67 5G,
-RMX5303,mob,realme,realme,,dhaka,C71,
+RMX5303,mob,realme,realme,,dhaka,C71,Global
+RMX5313,mob,realme,realme,,dhaka,C71,India
 RMX3945,mob,realme,realme,,rado-c,C73,5G
 RMX3941,mob,realme,realme,,oris-c,C75,
 RMX3943,mob,realme,realme,,rado,C75 5G,India
@@ -7180,10 +7186,12 @@ RMX3943,mob,realme,realme,,rado,P3 Lite 5G,
 RMX5555,mob,realme,realme,,moscow-a,P4,
 RMX5110,mob,realme,realme,,casio-p,P4 5G,
 RMX5116,mob,realme,realme,,neutron-p,P4 Pro,5G
-RMX5367,mob,realme,realme,,nairobi-p,P4x,
+RMX5366,mob,realme,realme,,nairobi-p,P4x,Global
+RMX5367,mob,realme,realme,,nairobi-p,P4x,India
 RMX5108,mob,realme,realme,,suzuki,P4x 5G,
 RMX5107,mob,realme,realme,,casio-m,P4 Power,5G
-RMX5313,mob,realme,realme,,latte-t,P4 Lite,
+RMX5377,mob,realme,realme,,nairobi-a,P4 Lite,Global
+RMX5313,mob,realme,realme,,latte-t,P4 Lite,India
 RMX5261,mob,realme,realme,,mumbai-c2,P4 Lite 5G,
 RMX5266,mob,realme,realme,,,P4R 5G,
 RMX5125,mob,realme,realme,,,P4s 5G,
@@ -9143,6 +9151,8 @@ V2531A,mob,vivo,vivo,,PD2531,Y500i,
 V2531A,mob,vivo,vivo,,PD2531,Y500s,
 V2531A,mob,vivo,vivo,,PD2531,Y6,
 V2531A,mob,vivo,vivo,,PD2531,Y6a,
+V2607A,mob,vivo,vivo,,PD2607,Y600,
+V2617A,mob,vivo,vivo,,PD2617,Y600i,
 V2561A,mob,vivo,vivo,,PD2561,Y600 Pro,
 V2553A,mob,vivo,vivo,,PD2553,Y600 Turbo,
 V2115A,mob,vivo,vivo,,PD2115,T1,
@@ -9203,6 +9213,7 @@ V2408A,mob,vivo,vivo,,PD2408,iQOO 13,
 V2505A,mob,vivo,vivo,,PD2505,iQOO 15,
 V2546A,mob,vivo,vivo,,PD2546,iQOO 15 Ultra,
 V2564A,mob,vivo,vivo,,PD2564,iQOO 15T,
+V2606A,mob,vivo,vivo,,PD2606,iQOO 16,
 V1914A,mob,vivo,vivo,,PD1914,iQOO Neo,全网通版
 V1914T,mob,vivo,vivo,,PD1914,iQOO Neo,移动全网通版
 V1936A,mob,vivo,vivo,,PD1936,iQOO Neo 855 版,全网通版
@@ -9422,6 +9433,8 @@ V2637,mob,vivo,vivo,,PD2512F,V70 Lite 5G,
 V2576,mob,vivo,vivo,,PD2575F,V80 Lite 5G,
 V2643,mob,vivo,vivo,,PD2575F,V80 Lite 5G,
 V2644,mob,vivo,vivo,,PD2575F,V80 Lite 5G,
+V2626,mob,vivo,vivo,,,V80 Lite 5G,
+V2655,mob,vivo,vivo,,,V80 Lite 5G,
 vivo 1907,mob,vivo,vivo,,PD1913F,S1,
 V1937,mob,vivo,vivo,,PD1982F,S1 Prime,
 vivo 1920,mob,vivo,vivo,,PD1945F,S1 Pro,
