@@ -403,6 +403,10 @@ A2569,pad,apple,Apple,J311AP,"iPad14,2",iPad mini (第 6 代),(无线局域网 +
 A2993,pad,apple,Apple,J410AP,"iPad16,1",iPad mini (A17 Pro),无线局域网
 A2995,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),无线局域网 + 蜂窝网络
 A2996,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),(无线局域网 + 蜂窝网络) (中国大陆)
+A1603,pad,apple,Apple,B222AP,,Apple Pencil (第 1 代),
+A2051,pad,apple,Apple,B332AP,,Apple Pencil (第 2 代),
+A3085,pad,apple,Apple,B482AP,,Apple Pencil (USB-C),
+A2538,pad,apple,Apple,B532AP,,Apple Pencil Pro,
 A1553,watch,apple,Apple,N27aAP,"Watch1,1",Apple Watch (第 1 代),38 毫米表壳
 A1554,watch,apple,Apple,N28aAP,"Watch1,2",Apple Watch (第 1 代),42 毫米表壳
 A1802,watch,apple,Apple,N27dAP,"Watch2,6",Apple Watch Series 1,38 毫米表壳
@@ -522,6 +526,105 @@ A1421,pod,apple,Apple,N78AP,"iPod5,1",iPod touch (第 5 代),
 A1509,pod,apple,Apple,N78AP,"iPod5,1",iPod touch (第 5 代),16GB
 A1574,pod,apple,Apple,N102AP,"iPod7,1",iPod touch (第 6 代),
 A2178,pod,apple,Apple,N112AP,"iPod9,1",iPod touch (第 7 代),
+A2337,pod,apple,Apple,J313AP,"MacBookAir10,1",MacBook Air (M1),
+A2681,pod,apple,Apple,J413AP,"Mac14,2",MacBook Air (M2),
+A2941,pod,apple,Apple,J415AP,"Mac14,5","MacBook Air (15 英寸, M2)",
+A3113,pod,apple,Apple,J613AP,"Mac15,12","MacBook Air (13 英寸, M3)",
+A3114,pod,apple,Apple,J615AP,"Mac15,13","MacBook Air (15 英寸, M3)",
+A3240,pod,apple,Apple,J713AP,"Mac16,12","MacBook Air (13 英寸, M4)",
+A3241,pod,apple,Apple,J715AP,"Mac16,13","MacBook Air (15 英寸, M4)",
+A3449,pod,apple,Apple,J813AP,"Mac17,3","MacBook Air (13 英寸, M5)",
+A3448,pod,apple,Apple,J815AP,"Mac17,4","MacBook Air (15 英寸, M5)",
+A3404,pod,apple,Apple,J700AP,"Mac17,5",MacBook Neo (A18 Pro),
+A2338,pod,apple,Apple,J293AP,"MacBookPro17,1","MacBook Pro (13 英寸, M1)",
+A2442,pod,apple,Apple,J314sAP,"MacBookPro18,3","MacBook Pro (14 英寸, M1 Pro)",
+A2442,pod,apple,Apple,J314cAP,"MacBookPro18,4","MacBook Pro (14 英寸, M1 Max)",
+A2485,pod,apple,Apple,J316sAP,"MacBookPro18,1","MacBook Pro (16 英寸, M1 Pro)",
+A2485,pod,apple,Apple,J316cAP,"MacBookPro18,2","MacBook Pro (16 英寸, M1 Max)",
+A2338,pod,apple,Apple,J493AP,"Mac14,7","MacBook Pro (13 英寸, M2)",
+A2779,pod,apple,Apple,J414sAP,"Mac14,9","MacBook Pro (14 英寸, M2 Pro)",
+A2779,pod,apple,Apple,J414cAP,"Mac14,5","MacBook Pro (14 英寸, M2 Max)",
+A2780,pod,apple,Apple,J416sAP,"Mac14,10","MacBook Pro (16 英寸, M2 Pro)",
+A2780,pod,apple,Apple,J416cAP,"Mac14,6","MacBook Pro (16 英寸, M2 Max)",
+A2918,pod,apple,Apple,J504AP,"Mac15,3","MacBook Pro (14 英寸, M3)",
+A2992,pod,apple,Apple,J514sAP,"Mac15,6","MacBook Pro (14 英寸, M3 Pro)",
+A2992,pod,apple,Apple,J514mAP,"Mac15,10","MacBook Pro (14 英寸, M3 Max, 14 核)",
+A2992,pod,apple,Apple,J514cAP,"Mac15,8","MacBook Pro (14 英寸, M3 Max, 16 核)",
+A2991,pod,apple,Apple,J516sAP,"Mac15,7","MacBook Pro (16 英寸, M3 Pro)",
+A2991,pod,apple,Apple,J516mAP,"Mac15,11","MacBook Pro (16 英寸, M3 Max, 14 核)",
+A2991,pod,apple,Apple,J516cAP,"Mac15,9","MacBook Pro (16 英寸, M3 Max, 16 核)",
+A3112,pod,apple,Apple,J604AP,"Mac16,1","MacBook Pro (14 英寸, M4)",
+A3401,pod,apple,Apple,J614sAP,"Mac16,8","MacBook Pro (14 英寸, M4 Pro)",
+A3185,pod,apple,Apple,J614cAP,"Mac16,6","MacBook Pro (14 英寸, M4 Max)",
+A3403,pod,apple,Apple,J616sAP,"Mac16,7","MacBook Pro (16 英寸, M4 Pro)",
+A3186,pod,apple,Apple,J616cAP,"Mac16,5","MacBook Pro (16 英寸, M4 Max)",
+A3434,pod,apple,Apple,J704AP,"Mac17,2","MacBook Pro (14 英寸, M5)",
+A3426,pod,apple,Apple,J714sAP,"Mac17,9","MacBook Pro (14 英寸, M5 Pro)",
+A3427,pod,apple,Apple,J714cAP,"Mac17,7","MacBook Pro (14 英寸, M5 Max)",
+A3428,pod,apple,Apple,J716sAP,"Mac17,8","MacBook Pro (16 英寸, M5 Pro)",
+A3429,pod,apple,Apple,J716cAP,"Mac17,6","MacBook Pro (16 英寸, M5 Max)",
+A2438,pod,apple,Apple,J456AP,"iMac21,1","iMac (24 英寸, M1)",2 个 USB-C 端口
+A2439,pod,apple,Apple,J457AP,"iMac21,2","iMac (24 英寸, M1)",4 个 USB-C 端口
+A2874,pod,apple,Apple,J433AP,"Mac15,4","iMac (24 英寸, M3)",2 个 USB-C 端口
+A2873,pod,apple,Apple,J434AP,"Mac15,5","iMac (24 英寸, M3)",4 个 USB-C 端口
+A3247,pod,apple,Apple,J623AP,"Mac16,2","iMac (24 英寸, M4)",2 个 USB-C 端口
+A3137,pod,apple,Apple,J624AP,"Mac16,3","iMac (24 英寸, M4)",4 个 USB-C 端口
+A2348,pod,apple,Apple,J274AP,"Macmini9,1",Mac mini (M1),
+A2686,pod,apple,Apple,J473AP,"Mac14,3",Mac mini (M2),
+A2816,pod,apple,Apple,J474sAP,"Mac14,12",Mac mini (M2 Pro),
+A3238,pod,apple,Apple,J773gAP,"Mac16,10",Mac mini (M4),
+A3239,pod,apple,Apple,J773sAP,"Mac16,11",Mac mini (M4 Pro),
+A3534,pod,apple,Apple,J873gAP,"Mac18,5",Mac mini (M6),
+A3535,pod,apple,Apple,J873sAP,"Mac17,16",Mac mini (M5 Pro),
+A2615,pod,apple,Apple,J375cAP,"Mac13,1",Mac Studio (M1 Max),
+A2615,pod,apple,Apple,J375dAP,"Mac13,2",Mac Studio (M1 Ultra),
+A2901,pod,apple,Apple,J475cAP,"Mac14,13",Mac Studio (M2 Max),
+A2901,pod,apple,Apple,J475dAP,"Mac14,14",Mac Studio (M2 Ultra),
+A3143,pod,apple,Apple,J575cAP,"Mac16,9",Mac Studio (M4 Max),
+A3389,pod,apple,Apple,J575dAP,"Mac15,14",Mac Studio (M3 Ultra),
+A3545,pod,apple,Apple,J775cAP,"Mac17,14",Mac Studio (M5 Max),
+A3546,pod,apple,Apple,J775dAP,"Mac17,15",Mac Studio (M5 Ultra),
+A2786,pod,apple,Apple,J180dAP,"Mac14,8",Mac Pro (2023),塔式
+A2787,pod,apple,Apple,J180dAP,"Mac14,8",Mac Pro (2023),机架式
+A1999,pod,apple,Apple,J290AP,"AppleDisplay1,1",Pro Display XDR,
+A2525,pod,apple,Apple,J327AP,"AppleDisplay2,1",Studio Display,
+A3350,pod,apple,Apple,J527AP,"AppleDisplay18,2",Studio Display (2026),
+A3348,pod,apple,Apple,J427AP,"AppleDisplay18,1",Studio Display XDR,
+A1523,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (第 1 代),右耳塞
+A1722,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (第 1 代),左耳塞
+A1602,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (第 1 代),充电盒
+A2031,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (第 2 代),左耳塞
+A2032,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (第 2 代),右耳塞
+A1938,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (第 2 代),无线充电盒
+A2564,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (第 3 代),左耳塞
+A2565,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (第 3 代),右耳塞
+A2566,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (第 3 代),MagSafe 充电盒
+A3053,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,左耳塞
+A3050,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,右耳塞
+A3058,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,充电盒
+A3056,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(主动降噪版) (左耳塞)
+A3055,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(主动降噪版) (右耳塞)
+A3059,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(主动降噪版) (充电盒)
+A2083,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,左耳塞
+A2084,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,右耳塞
+A2190,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,MagSafe 充电盒
+A2699,pod,apple,Apple,B698AP,"AirPodsPro1,2",AirPods Pro (第 2 代),左耳塞
+A2698,pod,apple,Apple,B698AP,"AirPodsPro1,2",AirPods Pro (第 2 代),右耳塞
+A2700,pod,apple,Apple,B698AP,"AirPodsPro1,2",AirPods Pro (第 2 代),MagSafe 充电盒
+A3047,pod,apple,Apple,B698AP,"AirPodsPro2,1","AirPods Pro (第 2 代, USB-C)",左耳塞
+A3048,pod,apple,Apple,B698AP,"AirPodsPro2,1","AirPods Pro (第 2 代, USB-C)",右耳塞
+A2968,pod,apple,Apple,B698AP,"AirPodsPro2,1","AirPods Pro (第 2 代, USB-C)",USB-C 充电盒
+A3064,pod,apple,Apple,B788AP,"AirPodsPro1,3",AirPods Pro 3,左耳塞
+A3063,pod,apple,Apple,B788AP,"AirPodsPro1,3",AirPods Pro 3,右耳塞
+A3122,pod,apple,Apple,B788AP,"AirPodsPro1,3",AirPods Pro 3,充电盒
+A2096,pod,apple,Apple,B515AP,"AirPodsMax1,1",AirPods Max,闪电接口
+A3184,pod,apple,Apple,B515cAP,"AirPodsMax1,1",AirPods Max (USB-C),
+A3454,pod,apple,Apple,B515dAP,"AirPodsMax1,2",AirPods Max 2,
+A2187,pod,apple,Apple,B389AP,"AirTag1,1",AirTag,
+A2937,pod,apple,Apple,B589AP,,AirTag (第 2 代),
+A1639,pod,apple,Apple,B238aAP,"AudioAccessory1,1",HomePod,
+A2374,pod,apple,Apple,B520AP,"AudioAccessory5,1",HomePod mini,
+A2825,pod,apple,Apple,B620AP,"AudioAccessory6,1",HomePod (第 2 代),
 A1203,mob,apple,Apple,M68AP,"iPhone1,1",iPhone,
 A1241,mob,apple,Apple,N82AP,"iPhone1,2",iPhone 3G,
 A1324,mob,apple,Apple,N82AP,"iPhone1,2",iPhone 3G,China mainland
@@ -888,6 +991,10 @@ A2569,pad,apple,Apple,J311AP,"iPad14,2",iPad mini (6th generation),Wi-Fi + Cellu
 A2993,pad,apple,Apple,J410AP,"iPad16,1",iPad mini (A17 Pro),Wi-Fi
 A2995,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),Wi-Fi + Cellular
 A2996,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),Wi-Fi + Cellular (China mainland)
+A1603,pad,apple,Apple,B222AP,,Apple Pencil (1st generation),
+A2051,pad,apple,Apple,B332AP,,Apple Pencil (2nd generation),
+A3085,pad,apple,Apple,B482AP,,Apple Pencil (USB-C),
+A2538,pad,apple,Apple,B532AP,,Apple Pencil Pro,
 A1553,watch,apple,Apple,N27aAP,"Watch1,1",Apple Watch (1st generation),38mm case
 A1554,watch,apple,Apple,N28aAP,"Watch1,2",Apple Watch (1st generation),42mm case
 A1802,watch,apple,Apple,N27dAP,"Watch2,6",Apple Watch Series 1,38mm case
@@ -1007,6 +1114,105 @@ A1421,pod,apple,Apple,N78AP,"iPod5,1",iPod touch (5th generation),
 A1509,pod,apple,Apple,N78AP,"iPod5,1",iPod touch (5th generation),16GB
 A1574,pod,apple,Apple,N102AP,"iPod7,1",iPod touch (6th generation),
 A2178,pod,apple,Apple,N112AP,"iPod9,1",iPod touch (7th generation),
+A2337,pod,apple,Apple,J313AP,"MacBookAir10,1",MacBook Air (M1),
+A2681,pod,apple,Apple,J413AP,"Mac14,2",MacBook Air (M2),
+A2941,pod,apple,Apple,J415AP,"Mac14,5","MacBook Air (15-inch, M2)",
+A3113,pod,apple,Apple,J613AP,"Mac15,12","MacBook Air (13-inch, M3)",
+A3114,pod,apple,Apple,J615AP,"Mac15,13","MacBook Air (15-inch, M3)",
+A3240,pod,apple,Apple,J713AP,"Mac16,12","MacBook Air (13-inch, M4)",
+A3241,pod,apple,Apple,J715AP,"Mac16,13","MacBook Air (15-inch, M4)",
+A3449,pod,apple,Apple,J813AP,"Mac17,3","MacBook Air (13-inch, M5)",
+A3448,pod,apple,Apple,J815AP,"Mac17,4","MacBook Air (15-inch, M5)",
+A3404,pod,apple,Apple,J700AP,"Mac17,5",MacBook Neo (A18 Pro),
+A2338,pod,apple,Apple,J293AP,"MacBookPro17,1","MacBook Pro (13-inch, M1)",
+A2442,pod,apple,Apple,J314sAP,"MacBookPro18,3","MacBook Pro (14-inch, M1 Pro)",
+A2442,pod,apple,Apple,J314cAP,"MacBookPro18,4","MacBook Pro (14-inch, M1 Max)",
+A2485,pod,apple,Apple,J316sAP,"MacBookPro18,1","MacBook Pro (16-inch, M1 Pro)",
+A2485,pod,apple,Apple,J316cAP,"MacBookPro18,2","MacBook Pro (16-inch, M1 Max)",
+A2338,pod,apple,Apple,J493AP,"Mac14,7","MacBook Pro (13-inch, M2)",
+A2779,pod,apple,Apple,J414sAP,"Mac14,9","MacBook Pro (14-inch, M2 Pro)",
+A2779,pod,apple,Apple,J414cAP,"Mac14,5","MacBook Pro (14-inch, M2 Max)",
+A2780,pod,apple,Apple,J416sAP,"Mac14,10","MacBook Pro (16-inch, M2 Pro)",
+A2780,pod,apple,Apple,J416cAP,"Mac14,6","MacBook Pro (16-inch, M2 Max)",
+A2918,pod,apple,Apple,J504AP,"Mac15,3","MacBook Pro (14-inch, M3)",
+A2992,pod,apple,Apple,J514sAP,"Mac15,6","MacBook Pro (14-inch, M3 Pro)",
+A2992,pod,apple,Apple,J514mAP,"Mac15,10","MacBook Pro (14-inch, M3 Max, 14-core)",
+A2992,pod,apple,Apple,J514cAP,"Mac15,8","MacBook Pro (14-inch, M3 Max, 16-core)",
+A2991,pod,apple,Apple,J516sAP,"Mac15,7","MacBook Pro (16-inch, M3 Pro)",
+A2991,pod,apple,Apple,J516mAP,"Mac15,11","MacBook Pro (16-inch, M3 Max, 14-core)",
+A2991,pod,apple,Apple,J516cAP,"Mac15,9","MacBook Pro (16-inch, M3 Max, 16-core)",
+A3112,pod,apple,Apple,J604AP,"Mac16,1","MacBook Pro (14-inch, M4)",
+A3401,pod,apple,Apple,J614sAP,"Mac16,8","MacBook Pro (14-inch, M4 Pro)",
+A3185,pod,apple,Apple,J614cAP,"Mac16,6","MacBook Pro (14-inch, M4 Max)",
+A3403,pod,apple,Apple,J616sAP,"Mac16,7","MacBook Pro (16-inch, M4 Pro)",
+A3186,pod,apple,Apple,J616cAP,"Mac16,5","MacBook Pro (16-inch, M4 Max)",
+A3434,pod,apple,Apple,J704AP,"Mac17,2","MacBook Pro (14-inch, M5)",
+A3426,pod,apple,Apple,J714sAP,"Mac17,9","MacBook Pro (14-inch, M5 Pro)",
+A3427,pod,apple,Apple,J714cAP,"Mac17,7","MacBook Pro (14-inch, M5 Max)",
+A3428,pod,apple,Apple,J716sAP,"Mac17,8","MacBook Pro (16-inch, M5 Pro)",
+A3429,pod,apple,Apple,J716cAP,"Mac17,6","MacBook Pro (16-inch, M5 Max)",
+A2438,pod,apple,Apple,J456AP,"iMac21,1","iMac (24-inch, M1)",2 USB-C ports
+A2439,pod,apple,Apple,J457AP,"iMac21,2","iMac (24-inch, M1)",4 USB-C ports
+A2874,pod,apple,Apple,J433AP,"Mac15,4","iMac (24-inch, M3)",2 USB-C ports
+A2873,pod,apple,Apple,J434AP,"Mac15,5","iMac (24-inch, M3)",4 USB-C ports
+A3247,pod,apple,Apple,J623AP,"Mac16,2","iMac (24-inch, M4)",2 USB-C ports
+A3137,pod,apple,Apple,J624AP,"Mac16,3","iMac (24-inch, M4)",4 USB-C ports
+A2348,pod,apple,Apple,J274AP,"Macmini9,1",Mac mini (M1),
+A2686,pod,apple,Apple,J473AP,"Mac14,3",Mac mini (M2),
+A2816,pod,apple,Apple,J474sAP,"Mac14,12",Mac mini (M2 Pro),
+A3238,pod,apple,Apple,J773gAP,"Mac16,10",Mac mini (M4),
+A3239,pod,apple,Apple,J773sAP,"Mac16,11",Mac mini (M4 Pro),
+A3534,pod,apple,Apple,J873gAP,"Mac18,5",Mac mini (M6),
+A3535,pod,apple,Apple,J873sAP,"Mac17,16",Mac mini (M5 Pro),
+A2615,pod,apple,Apple,J375cAP,"Mac13,1",Mac Studio (M1 Max),
+A2615,pod,apple,Apple,J375dAP,"Mac13,2",Mac Studio (M1 Ultra),
+A2901,pod,apple,Apple,J475cAP,"Mac14,13",Mac Studio (M2 Max),
+A2901,pod,apple,Apple,J475dAP,"Mac14,14",Mac Studio (M2 Ultra),
+A3143,pod,apple,Apple,J575cAP,"Mac16,9",Mac Studio (M4 Max),
+A3389,pod,apple,Apple,J575dAP,"Mac15,14",Mac Studio (M3 Ultra),
+A3545,pod,apple,Apple,J775cAP,"Mac17,14",Mac Studio (M5 Max),
+A3546,pod,apple,Apple,J775dAP,"Mac17,15",Mac Studio (M5 Ultra),
+A2786,pod,apple,Apple,J180dAP,"Mac14,8",Mac Pro (2023),Tower
+A2787,pod,apple,Apple,J180dAP,"Mac14,8",Mac Pro (2023),Rack
+A1999,pod,apple,Apple,J290AP,"AppleDisplay1,1",Pro Display XDR,
+A2525,pod,apple,Apple,J327AP,"AppleDisplay2,1",Studio Display,
+A3350,pod,apple,Apple,J527AP,"AppleDisplay18,2",Studio Display (2026),
+A3348,pod,apple,Apple,J427AP,"AppleDisplay18,1",Studio Display XDR,
+A1523,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (1st generation),right AirPod
+A1722,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (1st generation),left AirPod
+A1602,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (1st generation),charging case
+A2031,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (2nd generation),left AirPod
+A2032,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (2nd generation),right AirPod
+A1938,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (2nd generation),charging case
+A2564,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (3rd generation),left AirPod
+A2565,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (3rd generation),right AirPod
+A2566,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (3rd generation),charging case
+A3053,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,left AirPod
+A3050,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,right AirPod
+A3058,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,charging case
+A3056,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(ANC) (left AirPod)
+A3055,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(ANC) (right AirPod)
+A3059,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(ANC) (charging case)
+A2083,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,left AirPod
+A2084,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,right AirPod
+A2190,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,charging case
+A2699,pod,apple,Apple,B698AP,"AirPodsPro1,2",AirPods Pro 2,left AirPod
+A2698,pod,apple,Apple,B698AP,"AirPodsPro1,2",AirPods Pro 2,right AirPod
+A2700,pod,apple,Apple,B698AP,"AirPodsPro1,2",AirPods Pro 2,charging case
+A3047,pod,apple,Apple,B698AP,"AirPodsPro2,1",AirPods Pro 2 (USB-C),left AirPod
+A3048,pod,apple,Apple,B698AP,"AirPodsPro2,1",AirPods Pro 2 (USB-C),right AirPod
+A2968,pod,apple,Apple,B698AP,"AirPodsPro2,1",AirPods Pro 2 (USB-C),charging case
+A3064,pod,apple,Apple,B788AP,"AirPodsPro1,3",AirPods Pro 3,left AirPod
+A3063,pod,apple,Apple,B788AP,"AirPodsPro1,3",AirPods Pro 3,right AirPod
+A3122,pod,apple,Apple,B788AP,"AirPodsPro1,3",AirPods Pro 3,charging case
+A2096,pod,apple,Apple,B515AP,"AirPodsMax1,1",AirPods Max (Lightning),
+A3184,pod,apple,Apple,B515cAP,"AirPodsMax1,1",AirPods Max (USB-C),
+A3454,pod,apple,Apple,B515dAP,"AirPodsMax1,2",AirPods Max 2,
+A2187,pod,apple,Apple,B389AP,"AirTag1,1",AirTag,
+A2937,pod,apple,Apple,B589AP,,AirTag (2nd generation),
+A1639,pod,apple,Apple,B238aAP,"AudioAccessory1,1",HomePod (1st generation),
+A2374,pod,apple,Apple,B520AP,"AudioAccessory5,1",HomePod mini,
+A2825,pod,apple,Apple,B620AP,"AudioAccessory6,1",HomePod (2nd generation),
 A1324,mob,apple,Apple,N82AP,"iPhone1,2",iPhone 3G,
 A1303,mob,apple,Apple,N88AP,"iPhone2,1",iPhone 3GS,
 A1325,mob,apple,Apple,N88AP,"iPhone2,1",iPhone 3GS,无 WLAN 功能
@@ -1185,6 +1391,10 @@ A2567,pad,apple,Apple,J310AP,"iPad14,1",iPad mini (第 6 代),无线局域网
 A2569,pad,apple,Apple,J311AP,"iPad14,2",iPad mini (第 6 代),无线局域网 + 蜂窝网络
 A2993,pad,apple,Apple,J410AP,"iPad16,1",iPad mini (A17 Pro),无线局域网
 A2996,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),无线局域网 + 蜂窝网络
+A1603,pad,apple,Apple,B222AP,,Apple Pencil (第 1 代),
+A2051,pad,apple,Apple,B332AP,,Apple Pencil (第 2 代),
+A3085,pad,apple,Apple,B482AP,,Apple Pencil (USB-C),
+A2538,pad,apple,Apple,B532AP,,Apple Pencil Pro,
 A1553,watch,apple,Apple,N27aAP,"Watch1,1",Apple Watch (第 1 代),38 毫米表壳
 A1554,watch,apple,Apple,N28aAP,"Watch1,2",Apple Watch (第 1 代),42 毫米表壳
 A1802,watch,apple,Apple,N27dAP,"Watch2,6",Apple Watch Series 1,38 毫米表壳
@@ -1254,6 +1464,105 @@ A1421,pod,apple,Apple,N78AP,"iPod5,1",iPod touch (第 5 代),
 A1509,pod,apple,Apple,N78AP,"iPod5,1",iPod touch (第 5 代),16GB
 A1574,pod,apple,Apple,N102AP,"iPod7,1",iPod touch (第 6 代),
 A2178,pod,apple,Apple,N112AP,"iPod9,1",iPod touch (第 7 代),
+A2337,pod,apple,Apple,J313AP,"MacBookAir10,1",MacBook Air (M1),
+A2681,pod,apple,Apple,J413AP,"Mac14,2",MacBook Air (M2),
+A2941,pod,apple,Apple,J415AP,"Mac14,5","MacBook Air (15 英寸, M2)",
+A3113,pod,apple,Apple,J613AP,"Mac15,12","MacBook Air (13 英寸, M3)",
+A3114,pod,apple,Apple,J615AP,"Mac15,13","MacBook Air (15 英寸, M3)",
+A3240,pod,apple,Apple,J713AP,"Mac16,12","MacBook Air (13 英寸, M4)",
+A3241,pod,apple,Apple,J715AP,"Mac16,13","MacBook Air (15 英寸, M4)",
+A3449,pod,apple,Apple,J813AP,"Mac17,3","MacBook Air (13 英寸, M5)",
+A3448,pod,apple,Apple,J815AP,"Mac17,4","MacBook Air (15 英寸, M5)",
+A3404,pod,apple,Apple,J700AP,"Mac17,5",MacBook Neo (A18 Pro),
+A2338,pod,apple,Apple,J293AP,"MacBookPro17,1","MacBook Pro (13 英寸, M1)",
+A2442,pod,apple,Apple,J314sAP,"MacBookPro18,3","MacBook Pro (14 英寸, M1 Pro)",
+A2442,pod,apple,Apple,J314cAP,"MacBookPro18,4","MacBook Pro (14 英寸, M1 Max)",
+A2485,pod,apple,Apple,J316sAP,"MacBookPro18,1","MacBook Pro (16 英寸, M1 Pro)",
+A2485,pod,apple,Apple,J316cAP,"MacBookPro18,2","MacBook Pro (16 英寸, M1 Max)",
+A2338,pod,apple,Apple,J493AP,"Mac14,7","MacBook Pro (13 英寸, M2)",
+A2779,pod,apple,Apple,J414sAP,"Mac14,9","MacBook Pro (14 英寸, M2 Pro)",
+A2779,pod,apple,Apple,J414cAP,"Mac14,5","MacBook Pro (14 英寸, M2 Max)",
+A2780,pod,apple,Apple,J416sAP,"Mac14,10","MacBook Pro (16 英寸, M2 Pro)",
+A2780,pod,apple,Apple,J416cAP,"Mac14,6","MacBook Pro (16 英寸, M2 Max)",
+A2918,pod,apple,Apple,J504AP,"Mac15,3","MacBook Pro (14 英寸, M3)",
+A2992,pod,apple,Apple,J514sAP,"Mac15,6","MacBook Pro (14 英寸, M3 Pro)",
+A2992,pod,apple,Apple,J514mAP,"Mac15,10","MacBook Pro (14 英寸, M3 Max, 14 核)",
+A2992,pod,apple,Apple,J514cAP,"Mac15,8","MacBook Pro (14 英寸, M3 Max, 16 核)",
+A2991,pod,apple,Apple,J516sAP,"Mac15,7","MacBook Pro (16 英寸, M3 Pro)",
+A2991,pod,apple,Apple,J516mAP,"Mac15,11","MacBook Pro (16 英寸, M3 Max, 14 核)",
+A2991,pod,apple,Apple,J516cAP,"Mac15,9","MacBook Pro (16 英寸, M3 Max, 16 核)",
+A3112,pod,apple,Apple,J604AP,"Mac16,1","MacBook Pro (14 英寸, M4)",
+A3401,pod,apple,Apple,J614sAP,"Mac16,8","MacBook Pro (14 英寸, M4 Pro)",
+A3185,pod,apple,Apple,J614cAP,"Mac16,6","MacBook Pro (14 英寸, M4 Max)",
+A3403,pod,apple,Apple,J616sAP,"Mac16,7","MacBook Pro (16 英寸, M4 Pro)",
+A3186,pod,apple,Apple,J616cAP,"Mac16,5","MacBook Pro (16 英寸, M4 Max)",
+A3434,pod,apple,Apple,J704AP,"Mac17,2","MacBook Pro (14 英寸, M5)",
+A3426,pod,apple,Apple,J714sAP,"Mac17,9","MacBook Pro (14 英寸, M5 Pro)",
+A3427,pod,apple,Apple,J714cAP,"Mac17,7","MacBook Pro (14 英寸, M5 Max)",
+A3428,pod,apple,Apple,J716sAP,"Mac17,8","MacBook Pro (16 英寸, M5 Pro)",
+A3429,pod,apple,Apple,J716cAP,"Mac17,6","MacBook Pro (16 英寸, M5 Max)",
+A2438,pod,apple,Apple,J456AP,"iMac21,1","iMac (24 英寸, M1)",2 个 USB-C 端口
+A2439,pod,apple,Apple,J457AP,"iMac21,2","iMac (24 英寸, M1)",4 个 USB-C 端口
+A2874,pod,apple,Apple,J433AP,"Mac15,4","iMac (24 英寸, M3)",2 个 USB-C 端口
+A2873,pod,apple,Apple,J434AP,"Mac15,5","iMac (24 英寸, M3)",4 个 USB-C 端口
+A3247,pod,apple,Apple,J623AP,"Mac16,2","iMac (24 英寸, M4)",2 个 USB-C 端口
+A3137,pod,apple,Apple,J624AP,"Mac16,3","iMac (24 英寸, M4)",4 个 USB-C 端口
+A2348,pod,apple,Apple,J274AP,"Macmini9,1",Mac mini (M1),
+A2686,pod,apple,Apple,J473AP,"Mac14,3",Mac mini (M2),
+A2816,pod,apple,Apple,J474sAP,"Mac14,12",Mac mini (M2 Pro),
+A3238,pod,apple,Apple,J773gAP,"Mac16,10",Mac mini (M4),
+A3239,pod,apple,Apple,J773sAP,"Mac16,11",Mac mini (M4 Pro),
+A3534,pod,apple,Apple,J873gAP,"Mac18,5",Mac mini (M6),
+A3535,pod,apple,Apple,J873sAP,"Mac17,16",Mac mini (M5 Pro),
+A2615,pod,apple,Apple,J375cAP,"Mac13,1",Mac Studio (M1 Max),
+A2615,pod,apple,Apple,J375dAP,"Mac13,2",Mac Studio (M1 Ultra),
+A2901,pod,apple,Apple,J475cAP,"Mac14,13",Mac Studio (M2 Max),
+A2901,pod,apple,Apple,J475dAP,"Mac14,14",Mac Studio (M2 Ultra),
+A3143,pod,apple,Apple,J575cAP,"Mac16,9",Mac Studio (M4 Max),
+A3389,pod,apple,Apple,J575dAP,"Mac15,14",Mac Studio (M3 Ultra),
+A3545,pod,apple,Apple,J775cAP,"Mac17,14",Mac Studio (M5 Max),
+A3546,pod,apple,Apple,J775dAP,"Mac17,15",Mac Studio (M5 Ultra),
+A2786,pod,apple,Apple,J180dAP,"Mac14,8",Mac Pro (2023),塔式
+A2787,pod,apple,Apple,J180dAP,"Mac14,8",Mac Pro (2023),机架式
+A1999,pod,apple,Apple,J290AP,"AppleDisplay1,1",Pro Display XDR,
+A2525,pod,apple,Apple,J327AP,"AppleDisplay2,1",Studio Display,
+A3350,pod,apple,Apple,J527AP,"AppleDisplay18,2",Studio Display (2026),
+A3348,pod,apple,Apple,J427AP,"AppleDisplay18,1",Studio Display XDR,
+A1523,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (第 1 代),右耳塞
+A1722,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (第 1 代),左耳塞
+A1602,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (第 1 代),充电盒
+A2031,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (第 2 代),左耳塞
+A2032,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (第 2 代),右耳塞
+A1938,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (第 2 代),充电盒
+A2564,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (第 3 代),左耳塞
+A2565,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (第 3 代),右耳塞
+A2566,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (第 3 代),充电盒
+A3053,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,左耳塞
+A3050,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,右耳塞
+A3058,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,充电盒
+A3056,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(主动降噪版) (左耳塞)
+A3055,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(主动降噪版) (右耳塞)
+A3059,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(主动降噪版) (充电盒)
+A2083,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,左耳塞
+A2084,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,右耳塞
+A2190,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,充电盒
+A2699,pod,apple,Apple,B698AP,"AirPodsPro1,2",AirPods Pro 2,左耳塞
+A2698,pod,apple,Apple,B698AP,"AirPodsPro1,2",AirPods Pro 2,右耳塞
+A2700,pod,apple,Apple,B698AP,"AirPodsPro1,2",AirPods Pro 2,充电盒
+A3047,pod,apple,Apple,B698AP,"AirPodsPro2,1",AirPods Pro 2 (USB-C),左耳塞
+A3048,pod,apple,Apple,B698AP,"AirPodsPro2,1",AirPods Pro 2 (USB-C),右耳塞
+A2968,pod,apple,Apple,B698AP,"AirPodsPro2,1",AirPods Pro 2 (USB-C),充电盒
+A3064,pod,apple,Apple,B788AP,"AirPodsPro1,3",AirPods Pro 3,左耳塞
+A3063,pod,apple,Apple,B788AP,"AirPodsPro1,3",AirPods Pro 3,右耳塞
+A3122,pod,apple,Apple,B788AP,"AirPodsPro1,3",AirPods Pro 3,充电盒
+A2096,pod,apple,Apple,B515AP,"AirPodsMax1,1",AirPods Max,闪电接口
+A3184,pod,apple,Apple,B515cAP,"AirPodsMax1,1",AirPods Max (USB-C),
+A3454,pod,apple,Apple,B515dAP,"AirPodsMax1,2",AirPods Max 2,
+A2187,pod,apple,Apple,B389AP,"AirTag1,1",AirTag,
+A2937,pod,apple,Apple,B589AP,,AirTag (第 2 代),
+A1639,pod,apple,Apple,B238aAP,"AudioAccessory1,1",HomePod,
+A2374,pod,apple,Apple,B520AP,"AudioAccessory5,1",HomePod mini,
+A2825,pod,apple,Apple,B620AP,"AudioAccessory6,1",HomePod (第 2 代),
 ASUS_Z01QD,mob,asus,华硕,,ZS600KL,ROG 游戏手机,
 ASUS_I001DA,mob,asus,华硕,,ZS660KL,ROG 游戏手机 2,
 ASUS_I001DB,mob,asus,华硕,,ZS660KL,ROG 游戏手机 2,
@@ -5730,35 +6039,6 @@ NX575J,mob,nubia,努比亚,,,N2,
 NX608J,mob,nubia,努比亚,,,N3,
 NX617J,mob,nubia,努比亚,,,N3,
 NX301J,mob,nubia,努比亚,,,N5,
-nubia 8150N,mob,nubia,努比亚,,,Neo,5G
-Z2352N,mob,nubia,努比亚,,,Neo 2,5G
-Z2461,mob,nubia,努比亚,,,Neo 3,
-Z2464N,mob,nubia,努比亚,,,Neo 3,5G
-Z2465N,mob,nubia,努比亚,,,Neo 3 GT,5G
-Z2571N,mob,nubia,努比亚,,,Neo 5,5G
-Z2570N,mob,nubia,努比亚,,,Neo 5 GT,5G
-Z2353,mob,nubia,努比亚,,,Music,
-Z2460,mob,nubia,努比亚,,,Music 2,
-Z2460,mob,nubia,努比亚,,,Music Pro,
-Z2455,mob,nubia,努比亚,,,Focus,
-Z2462N,mob,nubia,努比亚,,,Focus 2,5G
-Z2463N,mob,nubia,努比亚,,,Focus 2 Ultra,5G
-A502ZT,mob,nubia,努比亚,,,Fold,SoftBank
-Z2468N,mob,nubia,努比亚,,,Air,
-Z2473,mob,nubia,努比亚,,,A56,
-Z6255CA,mob,nubia,努比亚,,,A75,
-Z2474,mob,nubia,努比亚,,,A76,
-Z6657CA,mob,nubia,努比亚,,,A76,
-Z2469N,mob,nubia,努比亚,,,A76,5G
-nubia 8550,mob,nubia,努比亚,,,V50 Vita,
-Z2356,mob,nubia,努比亚,,,V60,
-Z2350,mob,nubia,努比亚,,,V60 Design,
-Z2459,mob,nubia,努比亚,,,V70,
-Z2458,mob,nubia,努比亚,,,V70 Design,
-Z2467,mob,nubia,努比亚,,,V70 Max,
-A403ZT,mob,nubia,努比亚,,,S,5G SoftBank
-A507ZT,mob,nubia,努比亚,,,S2e,SoftBank
-Z6305R,mob,nubia,努比亚,,,S2R,
 LPD-20W,pad,nubia,努比亚,,,Pad 3D,
 NP02J,pad,nubia,努比亚,,,Pad 3D II,
 K99J,pad,nubia,努比亚,,,Pad SE,
@@ -5800,6 +6080,36 @@ NP03J,pad,nubia,努比亚,,,红魔电竞平板 Pro,
 NP02J,pad,nubia,努比亚,,,红魔平板 · 3D 探索版,5G
 NP05J,pad,nubia,努比亚,,,红魔电竞平板 3 Pro,
 NP06J,pad,nubia,努比亚,,,红魔游戏平板 5 Pro,
+nubia 8150N,mob,nubia,Nubia,,,Neo,5G
+Z2352N,mob,nubia,Nubia,,,Neo 2,5G
+Z2461,mob,nubia,Nubia,,,Neo 3,
+Z2464N,mob,nubia,Nubia,,,Neo 3,5G
+Z2465N,mob,nubia,Nubia,,,Neo 3 GT,5G
+Z2571N,mob,nubia,Nubia,,,Neo 5,5G
+Z2570N,mob,nubia,Nubia,,,Neo 5 GT,5G
+Z2353,mob,nubia,Nubia,,,Music,
+Z2460,mob,nubia,Nubia,,,Music 2,
+Z2460,mob,nubia,Nubia,,,Music Pro,
+Z2455,mob,nubia,Nubia,,,Focus,
+Z2357N,mob,nubia,Nubia,,,Focus,5G
+Z2462N,mob,nubia,Nubia,,,Focus 2,5G
+Z2463N,mob,nubia,Nubia,,,Focus 2 Ultra,5G
+A502ZT,mob,nubia,Nubia,,,Fold,SoftBank
+Z2468N,mob,nubia,Nubia,,,Air,
+Z2473,mob,nubia,Nubia,,,A56,
+Z6255CA,mob,nubia,Nubia,,,A75,
+Z2474,mob,nubia,Nubia,,,A76,
+Z6657CA,mob,nubia,Nubia,,,A76,
+Z2469N,mob,nubia,Nubia,,,A76,5G
+nubia 8550,mob,nubia,Nubia,,,V50 Vita,
+Z2356,mob,nubia,Nubia,,,V60,
+Z2350,mob,nubia,Nubia,,,V60 Design,
+Z2459,mob,nubia,Nubia,,,V70,
+Z2458,mob,nubia,Nubia,,,V70 Design,
+Z2467,mob,nubia,Nubia,,,V70 Max,
+A403ZT,mob,nubia,Nubia,,,S,5G SoftBank
+A507ZT,mob,nubia,Nubia,,,S2e,SoftBank
+Z6305R,mob,nubia,Nubia,,,S2R,
 ONE A0001,mob,oneplus,一加,,bacon,一加手机,全网通版 / 移动版 / 国际版
 ONE A1001,mob,oneplus,一加,,bacon,一加手机,联通版
 ONE A2001,mob,oneplus,一加,,oneplus2,一加手机 2,
@@ -5862,7 +6172,7 @@ LE2111,mob,oneplus,一加,,lemonade,一加 9,印度版
 LE2113,mob,oneplus,一加,,lemonade,一加 9,欧洲版
 LE2115,mob,oneplus,一加,,lemonade,一加 9,北美版 / 国际版
 LE2117,mob,oneplus,一加,,lemonadet,一加 9,T-Mobile 版
-LE2119,mob,oneplus,一加,,lemonadev,一加 9,Verzion 版
+LE2119,mob,oneplus,一加,,lemonadev,一加 9,Verizon 版
 LE2120,mob,oneplus,一加,,lemonadep,一加 9 Pro,国行版
 LE2121,mob,oneplus,一加,,lemonadep,一加 9 Pro,印度版
 LE2123,mob,oneplus,一加,,lemonadep,一加 9 Pro,欧洲版
@@ -5972,31 +6282,31 @@ BE2011,mob,oneplus,一加,,bengal,一加 Nord N100,北美版
 BE2012,mob,oneplus,一加,,bengal,一加 Nord N100,T-Mobile 版
 BE2013,mob,oneplus,一加,,bengal,一加 Nord N100,国际版
 BE2015,mob,oneplus,一加,,bengal,一加 Nord N100,Metro 版
-GN2200,mob,oneplus,一加,,gunnar,一加 Nord N20,
-CPH2459,mob,oneplus,一加,,gunnar,一加 Nord N20,
-CPH2469,mob,oneplus,一加,,zhaoyun-o,一加 Nord N20 SE,
+GN2200,mob,oneplus,一加,,gunnar,一加 Nord N20,北美运营商版
+CPH2459,mob,oneplus,一加,,gunnar,一加 Nord N20,北美无锁版
+CPH2469,mob,oneplus,一加,,zhaoyun-o,一加 Nord N20 SE,国际版
 CPH2605,mob,oneplus,一加,,fanli-o,一加 Nord N30 SE,欧洲版
 DE2117,mob,oneplus,一加,,dre9,一加 Nord N200,北美版
 DE2118,mob,oneplus,一加,,dre8t,一加 Nord N200,T-Mobile 版
-CPH2389,mob,oneplus,一加,,hilda,一加 Nord N300,
-CPH2551,mob,oneplus,一加,,hedwig,一加 Open,
+CPH2389,mob,oneplus,一加,,hilda,一加 Nord N300,北美版
+CPH2551,mob,oneplus,一加,,hedwig,一加 Open,国际版
 OPD2203,pad,oneplus,一加,,aries-o,一加平板 (2023),国际版
-OPD2304,pad,oneplus,一加,,bluey-o,一加平板 Go,LTE
-OPD2305,pad,oneplus,一加,,bluey-o,一加平板 Go,Wi-Fi
+OPD2304,pad,oneplus,一加,,bluey-o,一加平板 Go,LTE 国际版
+OPD2305,pad,oneplus,一加,,bluey-o,一加平板 Go,Wi-Fi 国际版
 OPD2407,pad,oneplus,一加,,dunhuang-o,一加平板 (2024),国行版
 OPD2404,pad,oneplus,一加,,rainbow,一加平板 Pro,国行版
 OPD2403,pad,oneplus,一加,,rainbow,一加平板 2 (2024),国际版
 OPD2413,pad,oneplus,一加,,erhai-o,一加平板 2 Pro,国行版
 OPD2415,pad,oneplus,一加,,erhai-o,一加平板 3,国际版
-OPD2480,pad,oneplus,一加,,fiji-o,一加平板 Lite,Wi-Fi
-OPD2481,pad,oneplus,一加,,fiji-o,一加平板 Lite,LTE
-OPD2504,pad,oneplus,一加,,greenland-o,一加平板 Go 2,Wi-Fi
-OPD2505,pad,oneplus,一加,,greenland-o,一加平板 Go 2,5G
+OPD2480,pad,oneplus,一加,,fiji-o,一加平板 Lite,Wi-Fi 国际版
+OPD2481,pad,oneplus,一加,,fiji-o,一加平板 Lite,LTE 国际版
+OPD2504,pad,oneplus,一加,,greenland-o,一加平板 Go 2,Wi-Fi 国际版
+OPD2505,pad,oneplus,一加,,greenland-o,一加平板 Go 2,5G 国际版
 OPD2508,pad,oneplus,一加,,himalayan-o,一加平板 2 (2025),国行版
 OPD2513,pad,oneplus,一加,,iceland-o,一加平板 3 Pro,国行版
 OPD2514,pad,oneplus,一加,,iceland-o,一加平板 4,国际版
 W101IN,band,oneplus,一加,,audio,一加 Band,印度版
-OPBBE221,watch,oneplus,一加,,newton,一加 Nord Watch,
+OPBBE221,watch,oneplus,一加,,newton,一加 Nord Watch,印度版
 W301CN,watch,oneplus,一加,,,一加手表,国行版 / Cyberpunk 2077 限定版
 W501CN,watch,oneplus,一加,,,一加手表,钴合金限定版 (国行)
 W301GB,watch,oneplus,一加,,,一加手表,国际版 / 钴合金限定版 (国际) / 哈利波特限定版
@@ -6051,7 +6361,7 @@ IN2011,mob,oneplus,OnePlus,,instantnoodle,OnePlus 8,India
 IN2013,mob,oneplus,OnePlus,,instantnoodle,OnePlus 8,Europe
 IN2015,mob,oneplus,OnePlus,,instantnoodle,OnePlus 8,North America / Global
 IN2017,mob,oneplus,OnePlus,,instantnoodlet,OnePlus 8,T-Mobile
-IN2019,mob,oneplus,OnePlus,,instantnoodlevis,OnePlus 8,Visible / Verzion
+IN2019,mob,oneplus,OnePlus,,instantnoodlevis,OnePlus 8,Visible / Verizon
 IN2020,mob,oneplus,OnePlus,,instantnoodlep,OnePlus 8 Pro,China
 IN2021,mob,oneplus,OnePlus,,instantnoodlep,OnePlus 8 Pro,India
 IN2023,mob,oneplus,OnePlus,,instantnoodlep,OnePlus 8 Pro,Europe
@@ -6068,7 +6378,7 @@ LE2111,mob,oneplus,OnePlus,,lemonade,OnePlus 9,India
 LE2113,mob,oneplus,OnePlus,,lemonade,OnePlus 9,Europe
 LE2115,mob,oneplus,OnePlus,,lemonade,OnePlus 9,North America / Global
 LE2117,mob,oneplus,OnePlus,,lemonadet,OnePlus 9,T-Mobile
-LE2119,mob,oneplus,OnePlus,,lemonadev,OnePlus 9,Verzion
+LE2119,mob,oneplus,OnePlus,,lemonadev,OnePlus 9,Verizon
 LE2120,mob,oneplus,OnePlus,,lemonadep,OnePlus 9 Pro,China
 LE2121,mob,oneplus,OnePlus,,lemonadep,OnePlus 9 Pro,India
 LE2123,mob,oneplus,OnePlus,,lemonadep,OnePlus 9 Pro,Europe
@@ -6178,31 +6488,31 @@ BE2011,mob,oneplus,OnePlus,,bengal,OnePlus Nord N100,North America
 BE2012,mob,oneplus,OnePlus,,bengal,OnePlus Nord N100,T-Mobile
 BE2013,mob,oneplus,OnePlus,,bengal,OnePlus Nord N100,Global
 BE2015,mob,oneplus,OnePlus,,bengal,OnePlus Nord N100,Metro
-GN2200,mob,oneplus,OnePlus,,gunnar,OnePlus Nord N20,
-CPH2459,mob,oneplus,OnePlus,,gunnar,OnePlus Nord N20,
-CPH2469,mob,oneplus,OnePlus,,zhaoyun-o,OnePlus Nord N20 SE,20 SE
+GN2200,mob,oneplus,OnePlus,,gunnar,OnePlus Nord N20,North America Carrier Version
+CPH2459,mob,oneplus,OnePlus,,gunnar,OnePlus Nord N20,North America Unlocked Version
+CPH2469,mob,oneplus,OnePlus,,zhaoyun-o,OnePlus Nord N20 SE,Global
 CPH2605,mob,oneplus,OnePlus,,fanli-o,OnePlus Nord N30 SE,Europe
 DE2117,mob,oneplus,OnePlus,,dre9,OnePlus Nord N200,North America
 DE2118,mob,oneplus,OnePlus,,dre8t,OnePlus Nord N200,T-Mobile
-CPH2389,mob,oneplus,OnePlus,,hilda,OnePlus Nord N300,
-CPH2551,mob,oneplus,OnePlus,,hedwig,OnePlus Open,
+CPH2389,mob,oneplus,OnePlus,,hilda,OnePlus Nord N300,North America
+CPH2551,mob,oneplus,OnePlus,,hedwig,OnePlus Open,Global
 OPD2203,pad,oneplus,OnePlus,,aries-o,OnePlus Pad (2023),Global
-OPD2304,pad,oneplus,OnePlus,,bluey-o,OnePlus Pad Go,LTE
-OPD2305,pad,oneplus,OnePlus,,bluey-o,OnePlus Pad Go,Wi-Fi
+OPD2304,pad,oneplus,OnePlus,,bluey-o,OnePlus Pad Go,LTE Global
+OPD2305,pad,oneplus,OnePlus,,bluey-o,OnePlus Pad Go,Wi-Fi Global
 OPD2407,pad,oneplus,OnePlus,,dunhuang-o,OnePlus Pad (2024),China
 OPD2404,pad,oneplus,OnePlus,,rainbow,OnePlus Pad Pro,China
 OPD2403,pad,oneplus,OnePlus,,rainbow,OnePlus Pad 2 (2024),Global
 OPD2413,pad,oneplus,OnePlus,,erhai-o,OnePlus Pad 2 Pro,China
 OPD2415,pad,oneplus,OnePlus,,erhai-o,OnePlus Pad 3,Global
-OPD2480,pad,oneplus,OnePlus,,fiji-o,OnePlus Pad Lite,Wi-Fi
-OPD2481,pad,oneplus,OnePlus,,fiji-o,OnePlus Pad Lite,LTE
-OPD2504,pad,oneplus,OnePlus,,greenland-o,OnePlus Pad Go 2,Wi-Fi
-OPD2505,pad,oneplus,OnePlus,,greenland-o,OnePlus Pad Go 2,5G
+OPD2480,pad,oneplus,OnePlus,,fiji-o,OnePlus Pad Lite,Wi-Fi Global
+OPD2481,pad,oneplus,OnePlus,,fiji-o,OnePlus Pad Lite,LTE Global
+OPD2504,pad,oneplus,OnePlus,,greenland-o,OnePlus Pad Go 2,Wi-Fi Global
+OPD2505,pad,oneplus,OnePlus,,greenland-o,OnePlus Pad Go 2,5G Global
 OPD2508,pad,oneplus,OnePlus,,himalayan-o,OnePlus Pad 2 (2025),China
 OPD2513,pad,oneplus,OnePlus,,iceland-o,OnePlus Pad 3 Pro,China
 OPD2514,pad,oneplus,OnePlus,,iceland-o,OnePlus Pad 4,Global
 W101IN,band,oneplus,OnePlus,,audio,OnePlus Band,India
-OPBBE221,watch,oneplus,OnePlus,,newton,OnePlus Nord Watch,
+OPBBE221,watch,oneplus,OnePlus,,newton,OnePlus Nord Watch,India
 W301CN,watch,oneplus,OnePlus,,,OnePlus Watch,China / Cyberpunk 2077 Limited Edition
 W501CN,watch,oneplus,OnePlus,,,OnePlus Watch,Cobalt Limited Edition (China)
 W301GB,watch,oneplus,OnePlus,,,OnePlus Watch,Global / Cobalt Limited Edition (Global) / Harry Potter Limited Edition
@@ -9775,7 +10085,7 @@ M2558B1,band,xiaomi,小米,P67,,小米手环 10 Pro,NFC 版 国际版
 M2559B1,band,xiaomi,小米,P67,,小米手环 10 Pro,陶瓷版 国际版
 M2616B1,band,xiaomi,小米,Q66,,小米手环 11,
 M2617B1,band,xiaomi,小米,Q66,,小米手环 11,NFC 版 / 陶瓷版 / 全金属版
-M2561B1,band,xiaomi,小米,Q69,,小米手环 11 Active,
+M2561B1,band,xiaomi,小米,Q69,,小米手环 11 Active,国际版
 XMWT01,watch,xiaomi,小米,,baiji,小米手表,
 M2320W1,watch,xiaomi,小米,M61C,axolotlaxie,Xiaomi Watch 2,
 M2234W1,watch,xiaomi,小米,M61,axolotl,Xiaomi Watch 2 Pro,蓝牙版
@@ -9828,7 +10138,7 @@ M2352W1,watch,xiaomi,小米,N65B,,Redmi Watch 5 Lite,印度版
 M2460W1,watch,xiaomi,小米,N65C,,Redmi Watch Move,印度版
 M2523W1,watch,xiaomi,小米,P65,,REDMI Watch 6,
 M2564W1,watch,xiaomi,小米,Q65A,,REDMI Watch 6 活力版,
-M2131W1,watch,xiaomi,小米,K65,,POCO Watch,
+M2131W1,watch,xiaomi,小米,K65,,POCO Watch,国际版
 M2111E1,watch,xiaomi,小米,K75,,Xiaomi 真无线降噪耳机 3,
 M2103E1,watch,xiaomi,小米,K73,,Xiaomi 真无线降噪耳机 3 Pro,
 M2115E1,watch,xiaomi,小米,K73A,,Xiaomi Buds 3T Pro,国际版
