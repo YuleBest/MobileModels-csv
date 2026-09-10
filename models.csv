@@ -2672,6 +2672,7 @@ PLA-AL10,mob,huawei,华为,,Pillar+,HUAWEI Mate 70 Pro+,
 PLU-AL10,mob,huawei,华为,,PillarU,HUAWEI Mate 70 RS 非凡大师,
 SUP-AL90,mob,huawei,华为,,Superman,HUAWEI Mate 70 Air,
 VYG-AL00,mob,huawei,华为,,Voyager,HUAWEI Mate 80,
+VYG-AL30,mob,huawei,华为,,Voyager,HUAWEI Mate 80,
 SGT-AL50,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro,麒麟 9030
 SGT-AL00,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro,麒麟 9030 Pro
 SGT-AL10,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro Max,
@@ -3490,8 +3491,11 @@ HD7XAJMS,tv,huawei,华为,,,华为智慧屏 S6 Pro,75
 HD8XAJMS,tv,huawei,华为,,,华为智慧屏 S6 Pro,85
 HD9XAJMS,tv,huawei,华为,,,华为智慧屏 S6 Pro,98
 HD55KLY26B,tv,huawei,华为,,,华为智慧屏 S7,55
+HD55KLY26C,tv,huawei,华为,,,华为智慧屏 S7,RGB 55
 HD65KLY26B,tv,huawei,华为,,,华为智慧屏 S7,65
+HD65KLY26C,tv,huawei,华为,,,华为智慧屏 S7,RGB 65
 HD75KLY26B,tv,huawei,华为,,,华为智慧屏 S7,75
+HD75KLY26C,tv,huawei,华为,,,华为智慧屏 S7,RGB 75
 HD85KLY26B,tv,huawei,华为,,,华为智慧屏 S7,85
 HD98QINA,tv,huawei,华为,,,华为智慧屏 S7,98
 HD6XNEWN,tv,huawei,华为,,,华为智慧屏 S7 Pro,65
@@ -5720,6 +5724,7 @@ NX551J,mob,nubia,努比亚,,,M2,
 NX573J,mob,nubia,努比亚,,,M2 青春版,
 NX907J,mob,nubia,努比亚,,,M2 畅玩版,
 P0110,mob,nubia,努比亚,,,M153 豆包手机助手技术预览版,
+NX888J,mob,nubia,努比亚,,,NaviX Ultra,
 NX541J,mob,nubia,努比亚,,,N1,
 NX575J,mob,nubia,努比亚,,,N2,
 NX608J,mob,nubia,努比亚,,,N3,
@@ -6412,8 +6417,8 @@ PLT130,mob,oppo,OPPO,,baikal-b5,OPPO A6v,
 PLT140,mob,oppo,OPPO,,baikal-b5,OPPO A6x,
 PLT140,mob,oppo,OPPO,,baikal-b5,OPPO A6m,
 PMC110,mob,oppo,OPPO,,baikal-b4,OPPO A6c,
-PLT150,mob,oppo,OPPO,,,OPPO A7i,
-PYE110,mob,oppo,OPPO,,,OPPO A7 Pro,
+PLT150,mob,oppo,OPPO,,baikal-b5,OPPO A7i,
+PYE110,mob,oppo,OPPO,,doraemon-b5,OPPO A7 Pro,
 PYC110,mob,oppo,OPPO,,doraemon-m,OPPO A7 Pro Max,
 PBCM30,mob,oppo,OPPO,,,OPPO K1,
 PCGM00,mob,oppo,OPPO,,,OPPO K3,全网通版
