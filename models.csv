@@ -2043,6 +2043,10 @@ LDY-AN00,mob,honor,荣耀,,Lindy,荣耀 Magic8 Pro Air,
 BKQ-AN20,mob,honor,荣耀,,,荣耀 Magic8 RSR 保时捷设计,
 PNM-AN10,mob,honor,荣耀,,Phenom,荣耀 Magic V6,
 PNM-AN20,mob,honor,荣耀,,Phenom,荣耀 Magic V6,16GB+1TB
+MLY-AN00,mob,honor,荣耀,,Molly,荣耀 Magic9,
+MLM-AN00,mob,honor,荣耀,,MollyM,荣耀 Magic9 超能版,
+WKL-AN20,mob,honor,荣耀,,Twinkle,荣耀 Magic9 Pro Max,
+WKL-AN80,mob,honor,荣耀,,Twinkle,荣耀 Magic9 Pro Max,16GB+1TB
 APH-AN00,mob,honor,荣耀,,Alpha,荣耀 Robot Phone,
 H60-L01,mob,honor,荣耀,,Mogolia,荣耀 6,移动版
 H60-L02,mob,honor,荣耀,,Mogolia,荣耀 6,联通版
@@ -2658,7 +2662,9 @@ IVY-B39,watch,honor,荣耀,,,荣耀手表 GS 5,
 IVY-B39,watch,honor,荣耀,,,荣耀手表 Fit,
 LWS-WB10,watch,honor,荣耀,,,荣耀手表 X5,
 WTS-B19,watch,honor,荣耀,,,荣耀手表 X5i,
+WSS-B19,watch,honor,荣耀,,,荣耀手表 X5s,
 ROM-B19,watch,honor,荣耀,,,荣耀手表 6 Plus,
+HLO-B19,watch,honor,荣耀,,,荣耀手表 6 Pro,
 NYX-B10HN,band,honor,荣耀,,,荣耀手环 3,标准版
 NYX-B20HN,band,honor,荣耀,,,荣耀手环 3,NFC 版
 CRS-B19,band,honor,荣耀,,Crius,荣耀手环 4,标准版
@@ -6623,6 +6629,9 @@ PLG120,mob,oppo,OPPO,,changjiang,OPPO Find X9 Pro,卫星通信版
 PME110,mob,oppo,OPPO,,venus,OPPO Find X9s Pro,
 PMA110,mob,oppo,OPPO,,lighthouse,OPPO Find X9 Ultra,
 PMA120,mob,oppo,OPPO,,lighthouse,OPPO Find X9 Ultra,卫星通信版
+PMW110,mob,oppo,OPPO,,,OPPO Find X10,
+PNA110,mob,oppo,OPPO,,aurora,OPPO Find X10 E,
+PMX110,mob,oppo,OPPO,,,OPPO Find X10 Pro Max,
 PEUM00,mob,oppo,OPPO,,peacock,OPPO Find N,
 PGU110,mob,oppo,OPPO,,whiteswan,OPPO Find N2,
 PGT110,mob,oppo,OPPO,,dragonfly,OPPO Find N2 Flip,
@@ -6876,6 +6885,7 @@ OWW251,watch,oppo,OPPO,,starriver,OPPO Watch X2,
 OWW262,watch,oppo,OPPO,,,OPPO Watch S,
 OWW261,watch,oppo,OPPO,,taycan,OPPO Watch X3,
 OWW263,watch,oppo,OPPO,,,OPPO Watch X3 Mini,
+OWW265,watch,oppo,OPPO,,,OPPO Watch S2,
 CPH1871,mob,oppo,OPPO,,,OPPO Find X,
 CPH1875,mob,oppo,OPPO,,,OPPO Find X,
 CPH2023,mob,oppo,OPPO,,,OPPO Find X2,
@@ -9350,6 +9360,11 @@ V2547A,mob,vivo,vivo,,PD2547,X300 Ultra,
 V2547DA,mob,vivo,vivo,,PD2547,X300 Ultra,卫星通信版
 V2612A,mob,vivo,vivo,,PD2612,X300 E,
 V2545A,mob,vivo,vivo,,PD2545,X Fold6,
+V2609A,mob,vivo,vivo,,PD2609,X500,
+V2608A,mob,vivo,vivo,,PD2608,X500 Pro,
+V2608DA,mob,vivo,vivo,,PD2608,X500 Pro,eSIM 版
+V2602A,mob,vivo,vivo,,PD2602,X500 Pro Max,
+V2602DA,mob,vivo,vivo,,PD2602,X500 Pro Max,卫星通信版
 V1831A,mob,vivo,vivo,,PD1831,S1,全网通版
 V1831T,mob,vivo,vivo,,PD1831,S1,移动全网通版
 V1832A,mob,vivo,vivo,,PD1832,S1 Pro,全网通版
@@ -9680,7 +9695,8 @@ iPA2556,pad,vivo,vivo,,DPD2437,iQOO Pad5,
 iPA2575,pad,vivo,vivo,,DPD2438,iQOO Pad5 Pro,
 iPA2537,pad,vivo,vivo,,DPD2345,iQOO Pad5e,
 iPA2537,pad,vivo,vivo,,DPD2345,iQOO Pad5c,
-iPA2673,pad,vivo,vivo,,,iQOO Pad6 Pro,
+iPA2673,pad,vivo,vivo,,DPD2540,iQOO Pad6 Pro,
+iPA2691,pad,vivo,vivo,,,iQOO Pad Ultra,
 WA2052,watch,vivo,vivo,,,WATCH,42mm
 WA2056,watch,vivo,vivo,,,WATCH,46mm
 WA2156A,watch,vivo,vivo,,,WATCH 2,eSIM 版
@@ -9692,6 +9708,8 @@ WA2556A,watch,vivo,vivo,,,WATCH 5,蓝牙版
 WA2556B,watch,vivo,vivo,,,WATCH 5,eSIM 版
 WA2536A,watch,vivo,vivo,,,WATCH GT 2,蓝牙版
 WA2536B,watch,vivo,vivo,,,WATCH GT 2,eSIM 版
+WA2656A,watch,vivo,vivo,,,WATCH 6,蓝牙版
+WA2656B,watch,vivo,vivo,,,WATCH 6,eSIM 版
 iWA2356A,watch,vivo,vivo,,,iQOO WATCH,eSIM 版
 iWA2356C,watch,vivo,vivo,,,iQOO WATCH,蓝牙版
 iWA2456A,watch,vivo,vivo,,,iQOO WATCH GT,eSIM 版
@@ -10533,6 +10551,11 @@ M2105K81C,pad,xiaomi,小米,K81,enuma,小米平板 5 Pro 5G,
 25097RP43I,pad,xiaomi,小米,P82,yupei,Xiaomi Pad 8,印度版
 25091RP04C,pad,xiaomi,小米,P81,piano,Xiaomi Pad 8 Pro,国行版
 25091RP04G,pad,xiaomi,小米,P81,piano,Xiaomi Pad 8 Pro,国际版
+M656BA,pad,xiaomi,小米,Q82,yupei,Xiaomi Pad 9,国行版
+26103RP65G,pad,xiaomi,小米,Q82,yupei,Xiaomi Pad 9,国际版
+26103RP65I,pad,xiaomi,小米,Q82,yupei,Xiaomi Pad 9,印度版
+2612CRPFFC,pad,xiaomi,小米,Q81,shuntian,Xiaomi Pad 9 Pro,国行版
+2612CRPFFG,pad,xiaomi,小米,Q81,shuntian,Xiaomi Pad 9 Pro,国际版
 M367FC,pad,xiaomi,小米,Q81A,yingtian,Xiaomi Pad 9 Pro Max,
 2013022,mob,xiaomi,小米,H2TD,wt93007,红米手机,移动版
 2013023,mob,xiaomi,小米,H2W,wt98007,红米手机,联通版
@@ -11111,7 +11134,7 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,印度版
 2604ERP4DI,pad,xiaomi,小米,P85X,erhu,REDMI Pad 2 9.7 4G,印度版
 25079RPDCC,pad,xiaomi,小米,O88,turner,REDMI K Pad,
 26048RP6AC,pad,xiaomi,小米,P88,yili,REDMI K Pad 2,
-M1805E10A,mob,xiaomi,小米,E10,beryllium,POCO F1,
+M1805E10A,mob,xiaomi,小米,E10,beryllium,POCO F1,国际版
 M2004J11G,mob,xiaomi,小米,J11,lmi,POCO F2 Pro,国际版
 M2012K11AG,mob,xiaomi,小米,K11A,alioth,POCO F3,国际版
 M2104K10I,mob,xiaomi,小米,K10,ares,POCO F3 GT,印度版
@@ -11400,6 +11423,8 @@ M2105K81C,pad,xiaomi,小米,K81,enuma,小米平板 5 Pro 5G,
 25053RP5CC,pad,xiaomi,小米,O81A,violin,Xiaomi Pad 7S Pro 12.5,
 25097RP43C,pad,xiaomi,小米,P82,yupei,Xiaomi Pad 8,
 25091RP04C,pad,xiaomi,小米,P81,piano,Xiaomi Pad 8 Pro,
+M656BA,pad,xiaomi,小米,Q82,yupei,Xiaomi Pad 9,
+2612CRPFFC,pad,xiaomi,小米,Q81,shuntian,Xiaomi Pad 9 Pro,
 M367FC,pad,xiaomi,小米,Q81A,yingtian,Xiaomi Pad 9 Pro Max,
 2013022,mob,xiaomi,小米,H2TD,wt93007,红米手机,移动版
 2013023,mob,xiaomi,小米,H2W,wt98007,红米手机,联通版
@@ -12408,7 +12433,7 @@ M1903C3GI,mob,xiaomi,Xiaomi,C3G,tiare,Redmi Go,India
 26020RN1AC,mob,xiaomi,Xiaomi,P25,somalia,REDMI R70 5G,China
 26020RN1AC,mob,xiaomi,Xiaomi,P25,somalia,REDMI R70m 5G,China
 26062RN92C,mob,xiaomi,Xiaomi,Q15,steppe,REDMI M100,China
-M1805E10A,mob,xiaomi,Xiaomi,E10,beryllium,POCO F1,
+M1805E10A,mob,xiaomi,Xiaomi,E10,beryllium,POCO F1,Global
 M2004J11G,mob,xiaomi,Xiaomi,J11,lmi,POCO F2 Pro,Global
 M2012K11AG,mob,xiaomi,Xiaomi,K11A,alioth,POCO F3,Global
 M2104K10I,mob,xiaomi,Xiaomi,K10,ares,POCO F3 GT,India
@@ -12557,6 +12582,11 @@ M2105K81C,pad,xiaomi,Xiaomi,K81,enuma,Xiaomi Pad 5 Pro 5G,China
 25097RP43I,pad,xiaomi,Xiaomi,P82,yupei,Xiaomi Pad 8,India
 25091RP04G,pad,xiaomi,Xiaomi,P81,piano,Xiaomi Pad 8 Pro,Global
 25091RP04C,pad,xiaomi,Xiaomi,P81,piano,Xiaomi Pad 8 Pro,China
+26103RP65G,pad,xiaomi,Xiaomi,Q82,yupei,Xiaomi Pad 9,Global
+26103RP65I,pad,xiaomi,Xiaomi,Q82,yupei,Xiaomi Pad 9,India
+M656BA,pad,xiaomi,Xiaomi,Q82,yupei,Xiaomi Pad 9,China
+2612CRPFFG,pad,xiaomi,Xiaomi,Q81,shuntian,Xiaomi Pad 9 Pro,Global
+2612CRPFFC,pad,xiaomi,Xiaomi,Q81,shuntian,Xiaomi Pad 9 Pro,China
 M367FC,pad,xiaomi,Xiaomi,Q81A,yingtian,Xiaomi Pad 9 Pro Max,China
 22081283G,pad,xiaomi,Xiaomi,L83,yunluo,Redmi Pad,Global
 22081283C,pad,xiaomi,Xiaomi,L83,yunluo,Redmi Pad,China
