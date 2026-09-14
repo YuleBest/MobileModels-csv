@@ -8244,6 +8244,11 @@ SM-S948Z,mob,samsung,Samsung,,m3q,Galaxy S26 Ultra,Japan (SoftBank)
 SM-S948C,mob,samsung,Samsung,,m3q,Galaxy S26 Ultra,Japan (Rakuten Mobile)
 SCG37,mob,samsung,Samsung,,m3q,Galaxy S26 Ultra,Japan (au)
 SC-53G,mob,samsung,Samsung,,m3q,Galaxy S26 Ultra,Japan (NTT Docomo)
+SM-S741B,mob,samsung,Samsung,,r14s,Galaxy S26 FE,Global
+SM-S741U,mob,samsung,Samsung,,r14s,Galaxy S26 FE,US Carrier
+SM-S741U1,mob,samsung,Samsung,,r14s,Galaxy S26 FE,US Unlocked
+SM-S741W,mob,samsung,Samsung,,r14s,Galaxy S26 FE,Canada
+SM-S741N,mob,samsung,Samsung,,r14s,Galaxy S26 FE,South Korea
 SM-N960F,mob,samsung,Samsung,,crownlte,Galaxy Note9,Global
 SM-N960U,mob,samsung,Samsung,,crownqltesq,Galaxy Note9,US Carrier
 SM-N960U1,mob,samsung,Samsung,,crownqlteue,Galaxy Note9,US Unlocked
@@ -8510,6 +8515,10 @@ SM-A075M,mob,samsung,Samsung,,a07,Galaxy A07,Latin America
 SM-A076E,mob,samsung,Samsung,,a07x,Galaxy A07 5G,Global
 SM-A076B,mob,samsung,Samsung,,a07x,Galaxy A07 5G,Global
 SM-A076M,mob,samsung,Samsung,,a07x,Galaxy A07 5G,Latin America
+SM-A077F,mob,samsung,Samsung,,a07ve,Galaxy A07s,Global
+SM-A077M,mob,samsung,Samsung,,a07ve,Galaxy A07s,Latin America
+SM-A085F,mob,samsung,Samsung,,a08,Galaxy A08,Global
+SM-A085M,mob,samsung,Samsung,,a08,Galaxy A08,Latin America
 SM-A105F,mob,samsung,Samsung,,a10,Galaxy A10,Global
 SM-A015FN,mob,samsung,Samsung,,a10,Galaxy A10,Global
 SM-A015G,mob,samsung,Samsung,,a10,Galaxy A10,Global
@@ -8596,6 +8605,9 @@ SM-A176U1,mob,samsung,Samsung,,a17x,Galaxy A17 5G,US Unlocked
 SM-S176V,mob,samsung,Samsung,,a17x,Galaxy A17 5G,TracFone
 SM-A176W,mob,samsung,Samsung,,a17x,Galaxy A17 5G,Canada
 SM-A1760,mob,samsung,Samsung,,a17x,Galaxy A17 5G,HK & TW
+SM-A185F,mob,samsung,Samsung,,a18,Galaxy A18,Global (Exynos)
+SM-A185N,mob,samsung,Samsung,,a18,Galaxy A18,South Korea
+SM-A185G,mob,samsung,Samsung,,a18m,Galaxy A18,Global (MediaTek)
 SM-A260F,mob,samsung,Samsung,,a2corelte,Galaxy A2 Core,Global
 SM-A260G,mob,samsung,Samsung,,a2corelte,Galaxy A2 Core,India
 SM-A205F,mob,samsung,Samsung,,a20,Galaxy A20,Global
@@ -8860,6 +8872,7 @@ SM-M045F,mob,samsung,Samsung,,m04,Galaxy M04,
 SM-M055F,mob,samsung,Samsung,,a05m,Galaxy M05,
 SM-M066B,mob,samsung,Samsung,,a06x,Galaxy M06 5G,
 SM-M075F,mob,samsung,Samsung,,a07,Galaxy M07,
+SM-M085F,mob,samsung,Samsung,,a08,Galaxy M08,
 SM-M105G,mob,samsung,Samsung,,m10lte,Galaxy M10,Global
 SM-M105F,mob,samsung,Samsung,,m10lte,Galaxy M10,India
 SM-M105M,mob,samsung,Samsung,,m10lte,Galaxy M10,Latin America
@@ -8927,6 +8940,7 @@ SM-E045F,mob,samsung,Samsung,,m04,Galaxy F04,
 SM-E055F,mob,samsung,Samsung,,a05m,Galaxy F05,
 SM-E066B,mob,samsung,Samsung,,a06x,Galaxy F06 5G,
 SM-E075F,mob,samsung,Samsung,,a07,Galaxy F07,
+SM-E085F,mob,samsung,Samsung,,a08,Galaxy F08,
 SM-F127G,mob,samsung,Samsung,,f12,Galaxy F12,
 SM-E135F,mob,samsung,Samsung,,m13,Galaxy F13,
 SM-E145F,mob,samsung,Samsung,,a05s,Galaxy F14,
@@ -8946,6 +8960,7 @@ SM-E556B,mob,samsung,Samsung,,m55xq,Galaxy F55 5G,
 SM-E566B,mob,samsung,Samsung,,m56x,Galaxy F56 5G,
 SM-E625F,mob,samsung,Samsung,,f62,Galaxy F62,
 SM-E076B,mob,samsung,Samsung,,a07x,Galaxy F70e 5G,
+SM-E476B,mob,samsung,Samsung,,,Galaxy F70 Pro 5G,
 SM701,mob,smartisan,坚果,,sfo,Smartisan T1,3G 版
 SM705,mob,smartisan,坚果,,sfo,Smartisan T1,4G 版
 SM801,mob,smartisan,坚果,,icesky,Smartisan T2,
