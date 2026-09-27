@@ -615,9 +615,9 @@ A3348,pod,apple,Apple,J427AP,"AppleDisplay18,1",Studio Display XDR,
 A1523,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (第 1 代),右耳塞
 A1722,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (第 1 代),左耳塞
 A1602,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (第 1 代),充电盒
-A2031,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (第 2 代),左耳塞
-A2032,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (第 2 代),右耳塞
-A1938,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (第 2 代),无线充电盒
+A2031,pod,apple,Apple,B288AP,"AirPods1,2",AirPods (第 2 代),左耳塞
+A2032,pod,apple,Apple,B288AP,"AirPods1,2",AirPods (第 2 代),右耳塞
+A1938,pod,apple,Apple,B288AP,"AirPods1,2",AirPods (第 2 代),无线充电盒
 A2564,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (第 3 代),左耳塞
 A2565,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (第 3 代),右耳塞
 A2566,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (第 3 代),MagSafe 充电盒
@@ -627,12 +627,12 @@ A3058,pod,apple,Apple,B768EAP,"AirPods1,4",AirPods 4,充电盒
 A3056,pod,apple,Apple,B768MAP,"AirPods1,4",AirPods 4 (主动降噪版),左耳塞
 A3055,pod,apple,Apple,B768MAP,"AirPods1,4",AirPods 4 (主动降噪版),右耳塞
 A3059,pod,apple,Apple,B768MAP,"AirPods1,4",AirPods 4 (主动降噪版),充电盒
-A3531,pod,apple,Apple,B868EAP,,AirPods 5,左耳塞
-A3532,pod,apple,Apple,B868EAP,,AirPods 5,右耳塞
-A3530,pod,apple,Apple,B868EAP,,AirPods 5,充电盒
-A3440,pod,apple,Apple,B868MAP,,AirPods 5 (配无线充电盒),左耳塞
-A3439,pod,apple,Apple,B868MAP,,AirPods 5 (配无线充电盒),右耳塞
-A3529,pod,apple,Apple,B868MAP,,AirPods 5 (配无线充电盒),充电盒
+A3531,pod,apple,Apple,B868EAP,"AirPods3,7",AirPods 5,左耳塞
+A3532,pod,apple,Apple,B868EAP,"AirPods3,7",AirPods 5,右耳塞
+A3530,pod,apple,Apple,B868EAP,"AirPods3,7",AirPods 5,充电盒
+A3440,pod,apple,Apple,B868MAP,"AirPods3,8",AirPods 5 (配无线充电盒),左耳塞
+A3439,pod,apple,Apple,B868MAP,"AirPods3,8",AirPods 5 (配无线充电盒),右耳塞
+A3529,pod,apple,Apple,B868MAP,"AirPods3,8",AirPods 5 (配无线充电盒),充电盒
 A2083,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,左耳塞
 A2084,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,右耳塞
 A2190,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,MagSafe 充电盒
@@ -1231,9 +1231,9 @@ A3348,pod,apple,Apple,J427AP,"AppleDisplay18,1",Studio Display XDR,
 A1523,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (1st generation),right AirPod
 A1722,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (1st generation),left AirPod
 A1602,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (1st generation),charging case
-A2031,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (2nd generation),left AirPod
-A2032,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (2nd generation),right AirPod
-A1938,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (2nd generation),charging case
+A2031,pod,apple,Apple,B288AP,"AirPods1,2",AirPods (2nd generation),left AirPod
+A2032,pod,apple,Apple,B288AP,"AirPods1,2",AirPods (2nd generation),right AirPod
+A1938,pod,apple,Apple,B288AP,"AirPods1,2",AirPods (2nd generation),charging case
 A2564,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (3rd generation),left AirPod
 A2565,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (3rd generation),right AirPod
 A2566,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (3rd generation),charging case
@@ -1243,12 +1243,12 @@ A3058,pod,apple,Apple,B768EAP,"AirPods1,4",AirPods 4,charging case
 A3056,pod,apple,Apple,B768MAP,"AirPods1,4",AirPods 4 (ANC),left AirPod
 A3055,pod,apple,Apple,B768MAP,"AirPods1,4",AirPods 4 (ANC),right AirPod
 A3059,pod,apple,Apple,B768MAP,"AirPods1,4",AirPods 4 (ANC),charging case
-A3531,pod,apple,Apple,B868EAP,,AirPods 5,left AirPod
-A3532,pod,apple,Apple,B868EAP,,AirPods 5,right AirPod
-A3530,pod,apple,Apple,B868EAP,,AirPods 5,charging case
-A3440,pod,apple,Apple,B868MAP,,AirPods 5 (Wireless Charging Case),left AirPod
-A3439,pod,apple,Apple,B868MAP,,AirPods 5 (Wireless Charging Case),right AirPod
-A3529,pod,apple,Apple,B868MAP,,AirPods 5 (Wireless Charging Case),charging case
+A3531,pod,apple,Apple,B868EAP,"AirPods3,7",AirPods 5,left AirPod
+A3532,pod,apple,Apple,B868EAP,"AirPods3,7",AirPods 5,right AirPod
+A3530,pod,apple,Apple,B868EAP,"AirPods3,7",AirPods 5,charging case
+A3440,pod,apple,Apple,B868MAP,"AirPods3,8",AirPods 5 (Wireless Charging Case),left AirPod
+A3439,pod,apple,Apple,B868MAP,"AirPods3,8",AirPods 5 (Wireless Charging Case),right AirPod
+A3529,pod,apple,Apple,B868MAP,"AirPods3,8",AirPods 5 (Wireless Charging Case),charging case
 A2083,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,left AirPod
 A2084,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,right AirPod
 A2190,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,charging case
@@ -1595,9 +1595,9 @@ A3348,pod,apple,Apple,J427AP,"AppleDisplay18,1",Studio Display XDR,
 A1523,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (第 1 代),右耳塞
 A1722,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (第 1 代),左耳塞
 A1602,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (第 1 代),充电盒
-A2031,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (第 2 代),左耳塞
-A2032,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (第 2 代),右耳塞
-A1938,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (第 2 代),充电盒
+A2031,pod,apple,Apple,B288AP,"AirPods1,2",AirPods (第 2 代),左耳塞
+A2032,pod,apple,Apple,B288AP,"AirPods1,2",AirPods (第 2 代),右耳塞
+A1938,pod,apple,Apple,B288AP,"AirPods1,2",AirPods (第 2 代),充电盒
 A2564,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (第 3 代),左耳塞
 A2565,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (第 3 代),右耳塞
 A2566,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (第 3 代),充电盒
@@ -1607,12 +1607,12 @@ A3058,pod,apple,Apple,B768EAP,"AirPods1,4",AirPods 4,充电盒
 A3056,pod,apple,Apple,B768MAP,"AirPods1,4",AirPods 4 (主动降噪版),左耳塞
 A3055,pod,apple,Apple,B768MAP,"AirPods1,4",AirPods 4 (主动降噪版),右耳塞
 A3059,pod,apple,Apple,B768MAP,"AirPods1,4",AirPods 4 (主动降噪版),充电盒
-A3531,pod,apple,Apple,B868EAP,,AirPods 5,左耳塞
-A3532,pod,apple,Apple,B868EAP,,AirPods 5,右耳塞
-A3530,pod,apple,Apple,B868EAP,,AirPods 5,充电盒
-A3440,pod,apple,Apple,B868MAP,,AirPods 5 (配无线充电盒),左耳塞
-A3439,pod,apple,Apple,B868MAP,,AirPods 5 (配无线充电盒),右耳塞
-A3529,pod,apple,Apple,B868MAP,,AirPods 5 (配无线充电盒),无线充电盒
+A3531,pod,apple,Apple,B868EAP,"AirPods3,7",AirPods 5,左耳塞
+A3532,pod,apple,Apple,B868EAP,"AirPods3,7",AirPods 5,右耳塞
+A3530,pod,apple,Apple,B868EAP,"AirPods3,7",AirPods 5,充电盒
+A3440,pod,apple,Apple,B868MAP,"AirPods3,8",AirPods 5 (配无线充电盒),左耳塞
+A3439,pod,apple,Apple,B868MAP,"AirPods3,8",AirPods 5 (配无线充电盒),右耳塞
+A3529,pod,apple,Apple,B868MAP,"AirPods3,8",AirPods 5 (配无线充电盒),无线充电盒
 A2083,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,左耳塞
 A2084,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,右耳塞
 A2190,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,充电盒
@@ -5474,6 +5474,10 @@ L65RC-RX,tv,mitv,小米,,,REDMI 电视 X 2026,65 2026
 L75RC-RX,tv,mitv,小米,,,REDMI 电视 X 2026,75 2026
 L85RC-RX,tv,mitv,小米,,,REDMI 电视 X 2026,85 2026
 L98RC-RX,tv,mitv,小米,,,REDMI 电视 X 2026,98 2026
+L55RD-RX,tv,mitv,小米,,,REDMI 电视 X 2027,55 RGB-Mini LED 2027 竞技版
+L65RD-RX,tv,mitv,小米,,,REDMI 电视 X 2027,65 RGB-Mini LED 2027 竞技版
+L75RD-RX,tv,mitv,小米,,,REDMI 电视 X 2027,75 RGB-Mini LED 2027 竞技版
+L85RD-RX,tv,mitv,小米,,,REDMI 电视 X 2027,85 RGB-Mini LED 2027 竞技版
 L65R9-XP,tv,mitv,小米,,,Redmi 智能电视 X Pro,65
 L75R9-XP,tv,mitv,小米,,,Redmi 智能电视 X Pro,75
 L85RA-RX,tv,mitv,小米,,,Redmi 智能电视 MAX,85 英寸
@@ -6710,6 +6714,7 @@ PLW110,mob,oppo,OPPO,,whoopass-c2,OPPO Reno15,
 PLV110,mob,oppo,OPPO,,whoopass-c1,OPPO Reno15 Pro,
 PMD110,mob,oppo,OPPO,,whoopass-c3,OPPO Reno15c,
 PMM110,mob,oppo,OPPO,,lychee-c2,OPPO Reno16,
+PMM110,mob,oppo,OPPO,,lychee-c2,OPPO Reno16t,
 PMK110,mob,oppo,OPPO,,lychee-c1,OPPO Reno16 Pro,
 PCLM10,mob,oppo,OPPO,,,OPPO Reno Ace,
 PDHM00,mob,oppo,OPPO,,,OPPO Ace2,
