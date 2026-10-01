@@ -3065,6 +3065,12 @@ SGT-AL00,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro,麒麟 9030 Pro
 SGT-AL10,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro Max,
 SGT-AL10,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro Max,风驰版
 SGU-AL10,mob,huawei,华为,,SagittariusU,HUAWEI Mate 80 RS 非凡大师,
+HLS-AL00,mob,huawei,华为,,,HUAWEI Mate 90,
+CMS-AL20,mob,huawei,华为,,,HUAWEI Mate 90 Pro,
+CMM-AL00,mob,huawei,华为,,,HUAWEI Mate 90 Pro Max,麒麟 9050
+CMM-AL10,mob,huawei,华为,,,HUAWEI Mate 90 Pro Max,麒麟 9050 Pro
+CMM-AL10,mob,huawei,华为,,,HUAWEI Mate 90 Pro Max 典藏版,
+CMU-AL10,mob,huawei,华为,,,HUAWEI Mate 90 RS 非凡大师,
 TAH-AN00,mob,huawei,华为,,Tahiti,HUAWEI Mate X,
 TAH-AN00m,mob,huawei,华为,,Tahiti,HUAWEI Mate Xs,
 TET-AN00,mob,huawei,华为,,Teton,HUAWEI Mate X2,5G
@@ -3257,7 +3263,7 @@ KLE-AL00U,mob,huawei,华为,,Klee,HUAWEI nova 15 Pro,
 SLY-AL00,mob,huawei,华为,,Shelley,HUAWEI nova 15 Ultra,
 EMA-AL00U,mob,huawei,华为,,Emilia,HUAWEI nova 16,
 CRS-AL00,mob,huawei,华为,,Chris,HUAWEI nova 16 Pro,
-HIP-AL00,mob,huawei,华为,,,HUAWEI nova 16 Ultra,
+HIP-AL00,mob,huawei,华为,,ChrisP,HUAWEI nova 16 Ultra,
 PKN-AL00,mob,huawei,华为,,Pushkin,HUAWEI nova 16z,
 CAS-AL50,mob,huawei,华为,,Cangshan,HUAWEI nova 16 SE,
 HUAWEI G6-T00,mob,huawei,华为,,,华为 Ascend G6,移动版
