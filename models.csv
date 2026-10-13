@@ -2415,6 +2415,7 @@ MLA-W09,pad,honor,荣耀,,Mulan,荣耀 MagicPad 4,12.1 英寸 Wi-Fi 版
 ROL-W60,pad,honor,荣耀,,Rowling,荣耀平板 GT,11.5 英寸 Wi-Fi 版
 ROD2-W69,pad,honor,荣耀,,Rolland2,荣耀平板 GT Pro,12.3 英寸 Wi-Fi 版
 CHG-W60,pad,honor,荣耀,,Changle,荣耀平板 GT2 Pro,12.5 英寸 Wi-Fi 版
+HES-W00,pad,honor,荣耀,,,荣耀 WIN 平板,
 7D-501u,pad,honor,荣耀,,,荣耀 X1,3G 版
 7D-503L,pad,honor,荣耀,,,荣耀 X1,4G 版
 7D-503LT,pad,honor,荣耀,,,荣耀 X1,移动 4G 版
@@ -2442,8 +2443,9 @@ ELN2-W09,pad,honor,荣耀,,Eileen2,荣耀平板 X9 Pro,11.5 英寸 Wi-Fi 版
 NDL2-W09,pad,honor,荣耀,,Nadal2,荣耀平板 X10,11 英寸 Wi-Fi 版
 ELE2-W00,pad,honor,荣耀,,Eileen2,荣耀平板 X10 Pro,11.5 英寸 Wi-Fi 版
 ELE2-W19,pad,honor,荣耀,,Eileen2,荣耀平板 X10 Pro,柔光版 11.5 英寸 Wi-Fi 版
-YAG-W09,pad,honor,荣耀,,Yaoming,荣耀平板 X10 Pro Max,10 Pro Max 13 英寸 Wi-Fi 版
-YAG-W19,pad,honor,荣耀,,Yaoming,荣耀平板 X10 Pro Max,10 Pro Max 柔光版 13 英寸 Wi-Fi 版
+YAG-W09,pad,honor,荣耀,,Yaoming,荣耀平板 X10 Pro Max,13 英寸 Wi-Fi 版
+YAG-W19,pad,honor,荣耀,,Yaoming,荣耀平板 X10 Pro Max,柔光版 13 英寸 Wi-Fi 版
+ONL-W09,pad,honor,荣耀,,,荣耀平板 X10 Mini,9.7 英寸 Wi-Fi 版
 ELE2-W19,pad,honor,荣耀,,Eileen2,荣耀护眼学习机 火火兔版,11.5 英寸 Wi-Fi 版
 HDN-W09,pad,honor,荣耀,,Haydn,荣耀 Waterplay,10.1 英寸 Wi-Fi 版
 HDN-L09,pad,honor,荣耀,,Haydn,荣耀 Waterplay,10.1 英寸 LTE 版
@@ -2853,6 +2855,8 @@ MBH-N49,mob,honor,HONOR,,Maybach,HONOR Magic V5,
 BKQ-N49,mob,honor,HONOR,,,HONOR Magic8 Pro,
 MTN-NX1M,mob,honor,HONOR,,,HONOR Magic8 Lite,
 MTN-NX3,mob,honor,HONOR,,,HONOR Magic8 Lite,
+BSN-NX1M,mob,honor,HONOR,,,HONOR Magic9 Lite+,
+BSN-NX3,mob,honor,HONOR,,,HONOR Magic9 Lite+,
 VNA-LX2,mob,honor,HONOR,,Vanessa,HONOR X5,
 VNA-LX3,mob,honor,HONOR,,Vanessa,HONOR X5,
 WOD-LX1,mob,honor,HONOR,,Woody,HONOR X5 Plus,
@@ -2968,6 +2972,7 @@ CGA-W00,pad,honor,HONOR,,Changan,HONOR MagicPad3,
 YLE-W09,pad,honor,HONOR,,Yongle,HONOR MagicPad4,
 JMS-W09,pad,honor,HONOR,,,HONOR Pad X7,Wi-Fi
 JMS-L09,pad,honor,HONOR,,,HONOR Pad X7,LTE
+ONL-W09,pad,honor,HONOR,,,HONOR Pad X7b,Wi-Fi
 AGM3-W09HN,pad,honor,HONOR,,Agassi3M,HONOR Pad X8,Wi-Fi
 AGM3-AL09HN,pad,honor,HONOR,,Agassi3M,HONOR Pad X8,LTE
 AGM-W09HN,pad,honor,HONOR,,AgassiRM,HONOR Pad X8 Lite,
@@ -6347,7 +6352,7 @@ CPH2805,mob,oneplus,一加,,prado,一加 Nord CE 6,印度版
 CPH2807,mob,oneplus,一加,,prado,一加 Nord CE 6,国际版
 PYS110,mob,oneplus,一加,,kof,一加 Turbo 6X,国行版
 PYR110,mob,oneplus,一加,,lol,一加 Turbo 6X Pro,国行版
-PYB110,mob,oneplus,一加,,,一加 16,国行版
+PYB110,mob,oneplus,一加,,pokemon,一加 16,国行版
 AC2001,mob,oneplus,一加,,avicii,一加 Nord,印度版
 AC2003,mob,oneplus,一加,,avicii,一加 Nord,欧洲版 / 国际版
 DN2101,mob,oneplus,一加,,denniz,一加 Nord 2,印度版
@@ -6555,7 +6560,7 @@ CPH2805,mob,oneplus,OnePlus,,prado,OnePlus Nord CE 6,India
 CPH2807,mob,oneplus,OnePlus,,prado,OnePlus Nord CE 6,Global
 PYS110,mob,oneplus,OnePlus,,kof,OnePlus Turbo 6X,China
 PYR110,mob,oneplus,OnePlus,,lol,OnePlus Turbo 6X Pro,China
-PYB110,mob,oneplus,OnePlus,,,OnePlus 16,China
+PYB110,mob,oneplus,OnePlus,,pokemon,OnePlus 16,China
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,India
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,Europe / Global
 DN2101,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,India
