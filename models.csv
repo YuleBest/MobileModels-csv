@@ -6384,8 +6384,8 @@ CPH2807,mob,oneplus,一加,,prado,一加 Nord CE 6,国际版
 PYS110,mob,oneplus,一加,,kof,一加 Turbo 6X,国行版
 PYR110,mob,oneplus,一加,,lol,一加 Turbo 6X Pro,国行版
 PYB110,mob,oneplus,一加,,pokemon,一加 16,国行版
-PYF110,mob,oneplus,一加,,,一加 Ace 7,国行版
-PMS110,mob,oneplus,一加,,,一加 Ace 7 Pro,国行版
+PYF110,mob,oneplus,一加,,mario,一加 Ace 7,国行版
+PMS110,mob,oneplus,一加,,redalert,一加 Ace 7 Pro,国行版
 AC2001,mob,oneplus,一加,,avicii,一加 Nord,印度版
 AC2003,mob,oneplus,一加,,avicii,一加 Nord,欧洲版 / 国际版
 DN2101,mob,oneplus,一加,,denniz,一加 Nord 2,印度版
@@ -6594,8 +6594,8 @@ CPH2807,mob,oneplus,OnePlus,,prado,OnePlus Nord CE 6,Global
 PYS110,mob,oneplus,OnePlus,,kof,OnePlus Turbo 6X,China
 PYR110,mob,oneplus,OnePlus,,lol,OnePlus Turbo 6X Pro,China
 PYB110,mob,oneplus,OnePlus,,pokemon,OnePlus 16,China
-PYF110,mob,oneplus,OnePlus,,,OnePlus Ace 7,China
-PMS110,mob,oneplus,OnePlus,,,OnePlus Ace 7 Pro,China
+PYF110,mob,oneplus,OnePlus,,mario,OnePlus Ace 7,China
+PMS110,mob,oneplus,OnePlus,,redalert,OnePlus Ace 7 Pro,China
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,India
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,Europe / Global
 DN2101,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,India
@@ -9808,7 +9808,7 @@ iPA2537,pad,vivo,vivo,,DPD2345,iQOO Pad5e,
 iPA2537,pad,vivo,vivo,,DPD2345,iQOO Pad5c,
 iPA2673,pad,vivo,vivo,,DPD2540,iQOO Pad6 Pro,
 iPA2691,pad,vivo,vivo,,DPD2605,iQOO Pad Ultra,
-iPA2693,pad,vivo,vivo,,,iQOO Pad Pro 8.8,
+iPA2693,pad,vivo,vivo,,DPD2653,iQOO Pad Pro 8.8,
 WA2052,watch,vivo,vivo,,,WATCH,42mm
 WA2056,watch,vivo,vivo,,,WATCH,46mm
 WA2156A,watch,vivo,vivo,,,WATCH 2,eSIM 版
