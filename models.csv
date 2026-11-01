@@ -6379,6 +6379,7 @@ PLU110,mob,oneplus,一加,,volkswagen,一加 Turbo 6,国行版
 CPH2793,mob,oneplus,一加,,volkswagen,一加 Nord 6,印度版
 CPH2795,mob,oneplus,一加,,volkswagen,一加 Nord 6,国际版
 PLY110,mob,oneplus,一加,,prado,一加 Turbo 6V,国行版
+PLY110,mob,oneplus,一加,,prado,一加 Turbo 6Vs,国行版
 CPH2805,mob,oneplus,一加,,prado,一加 Nord CE 6,印度版
 CPH2807,mob,oneplus,一加,,prado,一加 Nord CE 6,国际版
 PYS110,mob,oneplus,一加,,kof,一加 Turbo 6X,国行版
@@ -6589,6 +6590,7 @@ PLU110,mob,oneplus,OnePlus,,volkswagen,OnePlus Turbo 6,China
 CPH2793,mob,oneplus,OnePlus,,volkswagen,OnePlus Nord 6,India
 CPH2795,mob,oneplus,OnePlus,,volkswagen,OnePlus Nord 6,Global
 PLY110,mob,oneplus,OnePlus,,prado,OnePlus Turbo 6V,China
+PLY110,mob,oneplus,OnePlus,,prado,OnePlus Turbo 6V,6Vs China
 CPH2805,mob,oneplus,OnePlus,,prado,OnePlus Nord CE 6,India
 CPH2807,mob,oneplus,OnePlus,,prado,OnePlus Nord CE 6,Global
 PYS110,mob,oneplus,OnePlus,,kof,OnePlus Turbo 6X,China
@@ -11089,6 +11091,7 @@ XIG05,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,5G 日本版 (KDDI)
 2502FRA65G,mob,xiaomi,小米,N6R,emerald_r,Redmi Note 14S,国际版
 24116RACCG,mob,xiaomi,小米,O6,obsidian,Redmi Note 14 Pro,国际版
 24090RA29C,mob,xiaomi,小米,O16,malachite,Redmi Note 14 Pro,国行版
+24090RA29C,mob,xiaomi,小米,O16,malachite,REDMI M100 Pro,国行版
 24090RA29G,mob,xiaomi,小米,O16,malachite,Redmi Note 14 Pro,5G 国际版
 24090RA29I,mob,xiaomi,小米,O16,malachite,Redmi Note 14 Pro,5G 印度版
 24115RA8EC,mob,xiaomi,小米,O16U,amethyst,Redmi Note 14 Pro+,国行版
@@ -11712,6 +11715,7 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,
 24094RAD4C,mob,xiaomi,小米,O17,beryl,Redmi Note 14 5G,
 24094RAD4C,mob,xiaomi,小米,O17,beryl,REDMI Note 15R Pro,
 24090RA29C,mob,xiaomi,小米,O16,malachite,Redmi Note 14 Pro,
+24090RA29C,mob,xiaomi,小米,O16,malachite,REDMI M100 Pro,
 24115RA8EC,mob,xiaomi,小米,O16U,amethyst,Redmi Note 14 Pro+,
 25098RA98C,mob,xiaomi,小米,P17,kunzite,REDMI Note 15,
 25080RABDC,mob,xiaomi,小米,P16,lapis,REDMI Note 15 Pro,
@@ -12440,6 +12444,7 @@ XIG05,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,Japan (KDDI)
 24090RA29G,mob,xiaomi,Xiaomi,O16,malachite,Redmi Note 14 Pro 5G,Global
 24090RA29I,mob,xiaomi,Xiaomi,O16,malachite,Redmi Note 14 Pro 5G,India
 24090RA29C,mob,xiaomi,Xiaomi,O16,malachite,Redmi Note 14 Pro 5G,China
+24090RA29C,mob,xiaomi,Xiaomi,O16,malachite,REDMI M100 Pro,China
 24115RA8EG,mob,xiaomi,Xiaomi,O16U,amethyst,Redmi Note 14 Pro+ 5G,Global
 24115RA8EI,mob,xiaomi,Xiaomi,O16U,amethyst,Redmi Note 14 Pro+ 5G,India
 24115RA8EC,mob,xiaomi,Xiaomi,O16U,amethyst,Redmi Note 14 Pro+ 5G,China
