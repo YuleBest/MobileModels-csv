@@ -415,6 +415,9 @@ A2569,pad,apple,Apple,J311AP,"iPad14,2",iPad mini (第 6 代),(无线局域网 +
 A2993,pad,apple,Apple,J410AP,"iPad16,1",iPad mini (A17 Pro),无线局域网
 A2995,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),无线局域网 + 蜂窝网络
 A2996,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),(无线局域网 + 蜂窝网络) (中国大陆)
+A3595,pad,apple,Apple,J510AP,"iPad19,1",iPad mini (A20 Pro),无线局域网
+A3596,pad,apple,Apple,J511AP,"iPad19,2",iPad mini (A20 Pro),无线局域网 + 蜂窝网络
+A3597,pad,apple,Apple,J511AP,"iPad19,2",iPad mini (A20 Pro),(无线局域网 + 蜂窝网络) (中国大陆)
 A1603,pad,apple,Apple,B222AP,,Apple Pencil (第 1 代),
 A2051,pad,apple,Apple,B332AP,,Apple Pencil (第 2 代),
 A3085,pad,apple,Apple,B482AP,,Apple Pencil (USB-C),
@@ -586,12 +589,19 @@ A3426,pod,apple,Apple,J714sAP,"Mac17,9","MacBook Pro (14 英寸, M5 Pro)",
 A3427,pod,apple,Apple,J714cAP,"Mac17,7","MacBook Pro (14 英寸, M5 Max)",
 A3428,pod,apple,Apple,J716sAP,"Mac17,8","MacBook Pro (16 英寸, M5 Pro)",
 A3429,pod,apple,Apple,J716cAP,"Mac17,6","MacBook Pro (16 英寸, M5 Max)",
+A3536,pod,apple,Apple,J804AP,"Mac18,1","MacBook Pro (14 英寸, M6)",
+A3468,pod,apple,Apple,K114sAP,"Mac17,13","MacBook Pro (14 英寸 PROLED XDR 显示屏, M5 Pro)",
+A3375,pod,apple,Apple,K114cAP,"Mac17,12","MacBook Pro (14 英寸 PROLED XDR 显示屏, M5 Max)",
+A3469,pod,apple,Apple,K116sAP,"Mac17,11","MacBook Pro (16 英寸 PROLED XDR 显示屏, M5 Pro)",
+A3376,pod,apple,Apple,K116cAP,"Mac17,10","MacBook Pro (16 英寸 PROLED XDR 显示屏, M5 Max)",
 A2438,pod,apple,Apple,J456AP,"iMac21,1","iMac (24 英寸, M1)",2 个 USB-C 端口
 A2439,pod,apple,Apple,J457AP,"iMac21,2","iMac (24 英寸, M1)",4 个 USB-C 端口
 A2874,pod,apple,Apple,J433AP,"Mac15,4","iMac (24 英寸, M3)",2 个 USB-C 端口
 A2873,pod,apple,Apple,J434AP,"Mac15,5","iMac (24 英寸, M3)",4 个 USB-C 端口
 A3247,pod,apple,Apple,J623AP,"Mac16,2","iMac (24 英寸, M4)",2 个 USB-C 端口
 A3137,pod,apple,Apple,J624AP,"Mac16,3","iMac (24 英寸, M4)",4 个 USB-C 端口
+A3589,pod,apple,Apple,J833ctAP,"Mac18,2","iMac (24 英寸, M6)",2 个 USB-C 端口
+A3590,pod,apple,Apple,J833ctAP,"Mac18,2","iMac (24 英寸, M6)",4 个 USB-C 端口
 A2348,pod,apple,Apple,J274AP,"Macmini9,1",Mac mini (M1),
 A2686,pod,apple,Apple,J473AP,"Mac14,3",Mac mini (M2),
 A2816,pod,apple,Apple,J474sAP,"Mac14,12",Mac mini (M2 Pro),
@@ -1035,6 +1045,9 @@ A2569,pad,apple,Apple,J311AP,"iPad14,2",iPad mini (6th generation),Wi-Fi + Cellu
 A2993,pad,apple,Apple,J410AP,"iPad16,1",iPad mini (A17 Pro),Wi-Fi
 A2995,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),Wi-Fi + Cellular
 A2996,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),Wi-Fi + Cellular (China mainland)
+A3595,pad,apple,Apple,J510AP,"iPad19,1",iPad mini (A20 Pro),Wi-Fi
+A3596,pad,apple,Apple,J511AP,"iPad19,2",iPad mini (A20 Pro),Wi-Fi + Cellular
+A3597,pad,apple,Apple,J511AP,"iPad19,2",iPad mini (A20 Pro),Wi-Fi + Cellular (China mainland)
 A1603,pad,apple,Apple,B222AP,,Apple Pencil (1st generation),
 A2051,pad,apple,Apple,B332AP,,Apple Pencil (2nd generation),
 A3085,pad,apple,Apple,B482AP,,Apple Pencil (USB-C),
@@ -1206,12 +1219,19 @@ A3426,pod,apple,Apple,J714sAP,"Mac17,9","MacBook Pro (14-inch, M5 Pro)",
 A3427,pod,apple,Apple,J714cAP,"Mac17,7","MacBook Pro (14-inch, M5 Max)",
 A3428,pod,apple,Apple,J716sAP,"Mac17,8","MacBook Pro (16-inch, M5 Pro)",
 A3429,pod,apple,Apple,J716cAP,"Mac17,6","MacBook Pro (16-inch, M5 Max)",
+A3536,pod,apple,Apple,J804AP,"Mac18,1","MacBook Pro (14-inch, M6)",
+A3468,pod,apple,Apple,K114sAP,"Mac17,13","MacBook Pro (14-inch PROLED XDR Display, M5 Pro)",
+A3375,pod,apple,Apple,K114cAP,"Mac17,12","MacBook Pro (14-inch PROLED XDR Display, M5 Max)",
+A3469,pod,apple,Apple,K116sAP,"Mac17,11","MacBook Pro (16-inch PROLED XDR Display, M5 Pro)",
+A3376,pod,apple,Apple,K116cAP,"Mac17,10","MacBook Pro (16-inch PROLED XDR Display, M5 Max)",
 A2438,pod,apple,Apple,J456AP,"iMac21,1","iMac (24-inch, M1)",2 USB-C ports
 A2439,pod,apple,Apple,J457AP,"iMac21,2","iMac (24-inch, M1)",4 USB-C ports
 A2874,pod,apple,Apple,J433AP,"Mac15,4","iMac (24-inch, M3)",2 USB-C ports
 A2873,pod,apple,Apple,J434AP,"Mac15,5","iMac (24-inch, M3)",4 USB-C ports
 A3247,pod,apple,Apple,J623AP,"Mac16,2","iMac (24-inch, M4)",2 USB-C ports
 A3137,pod,apple,Apple,J624AP,"Mac16,3","iMac (24-inch, M4)",4 USB-C ports
+A3589,pod,apple,Apple,J833ctAP,"Mac18,2","iMac (24-inch, M6)",2 USB-C ports
+A3590,pod,apple,Apple,J833ctAP,"Mac18,2","iMac (24-inch, M6)",4 USB-C ports
 A2348,pod,apple,Apple,J274AP,"Macmini9,1",Mac mini (M1),
 A2686,pod,apple,Apple,J473AP,"Mac14,3",Mac mini (M2),
 A2816,pod,apple,Apple,J474sAP,"Mac14,12",Mac mini (M2 Pro),
@@ -1458,6 +1478,8 @@ A2567,pad,apple,Apple,J310AP,"iPad14,1",iPad mini (第 6 代),无线局域网
 A2569,pad,apple,Apple,J311AP,"iPad14,2",iPad mini (第 6 代),无线局域网 + 蜂窝网络
 A2993,pad,apple,Apple,J410AP,"iPad16,1",iPad mini (A17 Pro),无线局域网
 A2996,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),无线局域网 + 蜂窝网络
+A3595,pad,apple,Apple,J510AP,"iPad19,1",iPad mini (A20 Pro),无线局域网
+A3597,pad,apple,Apple,J511AP,"iPad19,2",iPad mini (A20 Pro),无线局域网 + 蜂窝网络
 A1603,pad,apple,Apple,B222AP,,Apple Pencil (第 1 代),
 A2051,pad,apple,Apple,B332AP,,Apple Pencil (第 2 代),
 A3085,pad,apple,Apple,B482AP,,Apple Pencil (USB-C),
@@ -1573,12 +1595,19 @@ A3426,pod,apple,Apple,J714sAP,"Mac17,9","MacBook Pro (14 英寸, M5 Pro)",
 A3427,pod,apple,Apple,J714cAP,"Mac17,7","MacBook Pro (14 英寸, M5 Max)",
 A3428,pod,apple,Apple,J716sAP,"Mac17,8","MacBook Pro (16 英寸, M5 Pro)",
 A3429,pod,apple,Apple,J716cAP,"Mac17,6","MacBook Pro (16 英寸, M5 Max)",
+A3536,pod,apple,Apple,J804AP,"Mac18,1","MacBook Pro (14 英寸, M6)",
+A3468,pod,apple,Apple,K114sAP,"Mac17,13","MacBook Pro (14 英寸 PROLED XDR 显示屏, M5 Pro)",
+A3375,pod,apple,Apple,K114cAP,"Mac17,12","MacBook Pro (14 英寸 PROLED XDR 显示屏, M5 Max)",
+A3469,pod,apple,Apple,K116sAP,"Mac17,11","MacBook Pro (16 英寸 PROLED XDR 显示屏, M5 Pro)",
+A3376,pod,apple,Apple,K116cAP,"Mac17,10","MacBook Pro (16 英寸 PROLED XDR 显示屏, M5 Max)",
 A2438,pod,apple,Apple,J456AP,"iMac21,1","iMac (24 英寸, M1)",2 个 USB-C 端口
 A2439,pod,apple,Apple,J457AP,"iMac21,2","iMac (24 英寸, M1)",4 个 USB-C 端口
 A2874,pod,apple,Apple,J433AP,"Mac15,4","iMac (24 英寸, M3)",2 个 USB-C 端口
 A2873,pod,apple,Apple,J434AP,"Mac15,5","iMac (24 英寸, M3)",4 个 USB-C 端口
 A3247,pod,apple,Apple,J623AP,"Mac16,2","iMac (24 英寸, M4)",2 个 USB-C 端口
 A3137,pod,apple,Apple,J624AP,"Mac16,3","iMac (24 英寸, M4)",4 个 USB-C 端口
+A3589,pod,apple,Apple,J833ctAP,"Mac18,2","iMac (24 英寸, M6)",2 个 USB-C 端口
+A3590,pod,apple,Apple,J833ctAP,"Mac18,2","iMac (24 英寸, M6)",4 个 USB-C 端口
 A2348,pod,apple,Apple,J274AP,"Macmini9,1",Mac mini (M1),
 A2686,pod,apple,Apple,J473AP,"Mac14,3",Mac mini (M2),
 A2816,pod,apple,Apple,J474sAP,"Mac14,12",Mac mini (M2 Pro),
@@ -2679,6 +2708,7 @@ WTS-B19,watch,honor,荣耀,,,荣耀手表 X5i,
 WSS-B19,watch,honor,荣耀,,,荣耀手表 X5s,
 ROM-B19,watch,honor,荣耀,,,荣耀手表 6 Plus,
 HLO-B19,watch,honor,荣耀,,,荣耀手表 6 Pro,
+RIO-B09,watch,honor,荣耀,,,荣耀手表 Fit 6,
 NYX-B10HN,band,honor,荣耀,,,荣耀手环 3,标准版
 NYX-B20HN,band,honor,荣耀,,,荣耀手环 3,NFC 版
 CRS-B19,band,honor,荣耀,,Crius,荣耀手环 4,标准版
@@ -3479,9 +3509,9 @@ WEB-AL10,pad,huawei,华为,,Weber,HUAWEI MatePad Pro 13.2 英寸,2025 SIM 卡版
 MRDI-W00,pad,huawei,华为,,Morandi,HUAWEI MatePad Pro 12.2 英寸,2025 Wi-Fi 版
 MRDI-W10,pad,huawei,华为,,Morandi,HUAWEI MatePad Pro 12.2 英寸,2025 Wi-Fi 柔光版
 MRDI-W20,pad,huawei,华为,,Morandi,HUAWEI MatePad Pro 12.2 英寸,2025 Wi-Fi 柔光版 (16GB+1TB)
-GEM-W00,pad,huawei,华为,,Gellman,HUAWEI MatePad Pro Max,13.2 英寸 Wi-Fi 版
-GEM-W10,pad,huawei,华为,,Gellman,HUAWEI MatePad Pro Max,13.2 英寸 Wi-Fi 版 (20GB+1TB)
-GEM-W40,pad,huawei,华为,,Gellman,HUAWEI MatePad Pro Max,13.2 英寸 悦享款 Wi-Fi 版
+GEM-W00,pad,huawei,华为,,Gellmann,HUAWEI MatePad Pro Max,13.2 英寸 Wi-Fi 版
+GEM-W10,pad,huawei,华为,,Gellmann,HUAWEI MatePad Pro Max,13.2 英寸 Wi-Fi 版 (20GB+1TB)
+GEM-W40,pad,huawei,华为,,Gellmann,HUAWEI MatePad Pro Max,13.2 英寸 悦享款 Wi-Fi 版
 DAL-W00,pad,huawei,华为,,Dali,HUAWEI MatePad Pro 12 英寸,Wi-Fi 版
 DAL-W20,pad,huawei,华为,,Dali,HUAWEI MatePad Pro 12 英寸,悦享款 Wi-Fi 版
 QXS-W00,pad,huawei,华为,,Qianxuesen,HUAWEI MatePad Edge,
@@ -3541,7 +3571,7 @@ AGS3K-AL20,pad,huawei,华为,,Agassi3K,HUAWEI MatePad SE,10.1 英寸 LTE 版
 AGS5-W00,pad,huawei,华为,,Agassi5,HUAWEI MatePad SE 10.4 英寸,Wi-Fi 版
 AGS5-AL00,pad,huawei,华为,,Agassi5,HUAWEI MatePad SE 10.4 英寸,LTE 版
 AGS6-W00,pad,huawei,华为,,Agassi6,HUAWEI MatePad SE 11 英寸,Wi-Fi 版
-AGS6-W10,pad,huawei,华为,,Agassi6,HUAWEI MatePad SE 11 英寸,活力版 11 英寸 Wi-Fi 版
+AGS6-W10,pad,huawei,华为,,Agassi6R,HUAWEI MatePad SE 11 英寸,活力版 11 英寸 Wi-Fi 版
 HMW-W09,pad,huawei,华为,,Hemingway,HUAWEI MatePad Paper,10.3 英寸 Wi-Fi 版
 HMW-AL10,pad,huawei,华为,,Hemingway,HUAWEI MatePad Paper,典藏版 10.3 英寸 LTE 版
 BZK-W00,pad,huawei,华为,,Kobe,华为平板 C3,(华为平板 T3 行业专享版) 8 英寸 Wi-Fi 版
@@ -4564,7 +4594,7 @@ WEB-W09,pad,huawei,HUAWEI,,Weber,HUAWEI MatePad Pro 13.2 2025,Wi-Fi
 MRO-W09,pad,huawei,HUAWEI,,Miro,HUAWEI MatePad Pro 12.2,Wi-Fi
 MRDI-W09,pad,huawei,HUAWEI,,Morandi,HUAWEI MatePad Pro 12.2 2025,Wi-Fi
 DAL-W09,pad,huawei,HUAWEI,,Dali,HUAWEI MatePad Pro 12,Wi-Fi
-GEM-W09,pad,huawei,HUAWEI,,,HUAWEI MatePad Pro Max,13.2 Wi-Fi
+GEM-W09,pad,huawei,HUAWEI,,Gellmann,HUAWEI MatePad Pro Max,13.2 Wi-Fi
 MLR-W09,pad,huawei,HUAWEI,,Mclaren,HUAWEI MatePad Mini,8.8 Wi-Fi
 HMW-W09,pad,huawei,HUAWEI,,Hemingway,HUAWEI MatePad Paper,Wi-Fi
 BGO-L03,pad,huawei,HUAWEI,,Baggio,HUAWEI MediaPad T2 7.0,LTE
@@ -4597,8 +4627,8 @@ AGS3-L09,pad,huawei,HUAWEI,,Agassi3,HUAWEI MatePad T 10s,LTE
 AGS3K-L09,pad,huawei,HUAWEI,,Agassi3,HUAWEI MatePad T 10s,LTE
 AGS5-W09,pad,huawei,HUAWEI,,Agassi5,HUAWEI MatePad SE,10.4 Wi-Fi
 AGS5-L09,pad,huawei,HUAWEI,,Agassi5,HUAWEI MatePad SE,10.4 LTE
-AGS6-W09,pad,huawei,HUAWEI,,Agassi6,HUAWEI MatePad SE 11,Wi-Fi
-AGS6-L09,pad,huawei,HUAWEI,,Agassi6,HUAWEI MatePad SE 11,LTE
+AGS6-W09,pad,huawei,HUAWEI,,Agassi6R,HUAWEI MatePad SE 11,Wi-Fi
+AGS6-L09,pad,huawei,HUAWEI,,Agassi6R,HUAWEI MatePad SE 11,LTE
 KOB2K-W09,pad,huawei,HUAWEI,,Kobe2K,HUAWEI MatePad C3,8 Wi-Fi
 KOB2K-L09,pad,huawei,HUAWEI,,Kobe2K,HUAWEI MatePad C3,8 LTE
 AGRK-W09,pad,huawei,HUAWEI,,AgassiRK,HUAWEI MatePad C3,9.7 Wi-Fi
