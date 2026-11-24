@@ -3113,7 +3113,8 @@ PLR-AL30,mob,huawei,华为,,Pillar,HUAWEI Mate 70 Pro,
 PLR-AL50,mob,huawei,华为,,Pillar,HUAWEI Mate 70 Pro,优享版
 PLA-AL10,mob,huawei,华为,,Pillar+,HUAWEI Mate 70 Pro+,
 PLU-AL10,mob,huawei,华为,,PillarU,HUAWEI Mate 70 RS 非凡大师,
-SUP-AL90,mob,huawei,华为,,Superman,HUAWEI Mate 70 Air,
+SUP-AL90,mob,huawei,华为,,Superman,HUAWEI Mate 70 Air,麒麟 9020B
+SUP-AL90a,mob,huawei,华为,,Superman,HUAWEI Mate 70 Air,麒麟 9020A
 VYG-AL00,mob,huawei,华为,,Voyager,HUAWEI Mate 80,
 VYG-AL30,mob,huawei,华为,,Voyager,HUAWEI Mate 80,
 SGT-AL50,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro,麒麟 9030
@@ -3127,6 +3128,7 @@ CMM-AL00,mob,huawei,华为,,CosmosM,HUAWEI Mate 90 Pro Max,麒麟 9050
 CMM-AL10,mob,huawei,华为,,CosmosM,HUAWEI Mate 90 Pro Max,麒麟 9050 Pro
 CMM-AL10,mob,huawei,华为,,CosmosM,HUAWEI Mate 90 Pro Max 典藏版,
 CMU-AL10,mob,huawei,华为,,CosmosU,HUAWEI Mate 90 RS 非凡大师,
+SUP-AL91,mob,huawei,华为,,Superman,HUAWEI Mate 90 Air,
 TAH-AN00,mob,huawei,华为,,Tahiti,HUAWEI Mate X,
 TAH-AN00m,mob,huawei,华为,,Tahiti,HUAWEI Mate Xs,
 TET-AN00,mob,huawei,华为,,Teton,HUAWEI Mate X2,5G
@@ -3144,6 +3146,7 @@ GRL-AL20,mob,huawei,华为,,Greenlan,HUAWEI Mate XTs 非凡大师,
 DEL-AL10,mob,huawei,华为,,Delphi,HUAWEI Mate X7,
 DEL-AL20,mob,huawei,华为,,Delphi,HUAWEI Mate X7,典藏版
 LAP-AL10,mob,huawei,华为,,Laptua,HUAWEI Mate XT 2 非凡大师,
+SKY-AL00,mob,huawei,华为,,,HUAWEI Mate X8,
 HUAWEI U9200,mob,huawei,华为,,,华为 Ascend P1,
 HUAWEI U9200E,mob,huawei,华为,,,华为 Ascend P1,XL
 HUAWEI U9200S,mob,huawei,华为,,,华为 Ascend P1,S
@@ -4135,6 +4138,7 @@ SYA-B19,watch,huawei,华为,,Seiya,HUAWEI WATCH FIT 4,
 SYA-B29,watch,huawei,华为,,Seiya,HUAWEI WATCH FIT 4 Pro,
 NKI-B19,watch,huawei,华为,,,HUAWEI WATCH FIT 5,
 NKI-B29,watch,huawei,华为,,,HUAWEI WATCH FIT 5 Pro,
+KTA-B19,watch,huawei,华为,,,HUAWEI WATCH Air,
 MLY-B10,watch,huawei,华为,,,HUAWEI WATCH D,黑色氟橡胶表带
 MLY-B11,watch,huawei,华为,,,HUAWEI WATCH D,米白色氟橡胶表带
 LCA-B10,watch,huawei,华为,,Luca,HUAWEI WATCH D2,幻夜黑
